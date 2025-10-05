@@ -1,0 +1,38 @@
+2025-10-04 15:51:15 | WARNING | JSONIngestor | Recebido bytes em vez de BytesIO, convertendo...
+2025-10-04 16:08:10 | INFO | JSONIngestor | Arquivos no ZIP: ['iptu_2024_json.json']
+2025-10-04 16:08:10 | INFO | JSONIngestor | Usando arquivo JSON: iptu_2024_json.json
+2025-10-04 16:08:10 | INFO | JSONIngestor | JSON carregado: 1 registros, 2 colunas
+2025-10-04 16:08:10 | INFO | JSONIngestor | Processado: 1 válidos, 0 inválidos
+2025-10-04 16:22:54 | INFO | JSONIngestor | Arquivos no ZIP: ['iptu_2024_json.json']
+2025-10-04 16:22:54 | INFO | JSONIngestor | Usando arquivo JSON: iptu_2024_json.json
+2025-10-04 16:22:54 | INFO | JSONIngestor | JSON carregado: 1 registros, 2 colunas
+2025-10-04 16:22:54 | INFO | JSONIngestor | Processado: 1 válidos, 0 inválidos
+2025-10-04 16:31:26 | INFO | JSONIngestor | Arquivos no ZIP: ['iptu_2024_json.json']
+2025-10-04 16:31:26 | INFO | JSONIngestor | Usando arquivo JSON: iptu_2024_json.json
+2025-10-04 16:31:26 | INFO | JSONIngestor | JSON carregado: 1 registros, 2 colunas
+2025-10-04 16:31:26 | INFO | JSONIngestor | Processado: 1 válidos, 0 inválidos
+2025-10-04 19:24:38 | INFO | JSONIngestor | Estrutura detectada: fields + records (formato API)
+2025-10-04 19:24:38 | INFO | JSONIngestor | ✓ DataFrame criado com colunas nomeadas de 'fields'
+2025-10-04 19:24:38 | INFO | JSONIngestor | Dados encontrados na chave 'data'
+2025-10-04 19:27:19 | INFO | JSONIngestor | Estrutura detectada: fields + records (formato API)
+2025-10-04 19:27:19 | INFO | JSONIngestor | ✓ DataFrame criado com colunas nomeadas de 'fields'
+2025-10-04 19:27:19 | INFO | JSONIngestor | Dados encontrados na chave 'data'
+2025-10-04 19:27:45 | INFO | JSONIngestor | Estrutura detectada: fields + records (formato API)
+2025-10-04 19:27:45 | INFO | JSONIngestor | ✓ DataFrame criado com colunas nomeadas de 'fields'
+2025-10-04 19:27:45 | INFO | JSONIngestor | Dados encontrados na chave 'data'
+2025-10-04 19:28:59 | INFO | JSONIngestor | Estrutura detectada: fields + records (formato API)
+2025-10-04 19:28:59 | INFO | JSONIngestor | ✓ DataFrame criado com colunas nomeadas de 'fields'
+2025-10-04 19:28:59 | INFO | JSONIngestor | Dados encontrados na chave 'data'
+2025-10-04 19:31:05 | INFO | JSONIngestor | Estrutura detectada: fields + records (formato API)
+2025-10-04 19:31:05 | INFO | JSONIngestor | ✓ DataFrame criado com colunas nomeadas de 'fields'
+2025-10-04 19:31:06 | INFO | JSONIngestor | Dados encontrados na chave 'data'
+2025-10-04 20:29:55 | INFO | JSONIngestor | Lendo arquivo iptu_2024.json do ZIP...
+2025-10-04 20:29:55 | INFO | JSONIngestor | Arquivo encontrado: iptu_2024_json.json
+2025-10-04 20:29:55 | INFO | JSONIngestor | Estrutura detectada: fields + records (formato API)
+2025-10-04 20:29:55 | INFO | JSONIngestor | ✓ DataFrame criado com colunas nomeadas de 'fields'
+2025-10-04 20:29:55 | INFO | JSONIngestor | ✓ JSON carregado: 500 registros, 33 colunas
+2025-10-04 21:10:22 | INFO | JSONIngestor | Lendo arquivo iptu_2024.json do ZIP...
+2025-10-04 21:10:22 | INFO | JSONIngestor | Arquivo encontrado: iptu_2024_json.json
+2025-10-04 21:10:22 | INFO | JSONIngestor | Estrutura detectada: fields + records (formato API)
+2025-10-04 21:10:22 | INFO | JSONIngestor | ✓ DataFrame criado com colunas nomeadas de 'fields'
+2025-10-04 21:10:22 | INFO | JSONIngestor | ✓ JSON carregado: 500 registros, 33 colunas

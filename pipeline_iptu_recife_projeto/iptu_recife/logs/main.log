@@ -1,0 +1,885 @@
+2025-10-04 15:08:56 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 15:10:44 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 15:13:53 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 15:13:54 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 15:18:41 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 15:18:42 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 15:24:21 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 15:24:21 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 15:25:09 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 15:25:09 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 15:25:13 | INFO | main | 2 registros carregados do ano 2020
+2025-10-04 15:31:17 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 15:31:18 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 15:31:25 | INFO | main | 0 registros válidos e 403915 inválidos do ano 2020
+2025-10-04 15:36:30 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 15:36:30 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 15:37:41 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 15:37:41 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 15:37:46 | INFO | main | ✓ Download concluído: 12667450 bytes
+2025-10-04 15:37:52 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 15:37:52 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 15:37:56 | INFO | main | ✓ Download concluído: 12667450 bytes
+2025-10-04 15:38:01 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 15:38:01 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 15:38:04 | INFO | main | ✓ Download concluído: 12667450 bytes
+2025-10-04 15:39:28 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 15:39:28 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 15:39:32 | INFO | main | ✓ Download concluído: 12667450 bytes
+2025-10-04 15:42:58 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 15:42:58 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 15:43:02 | INFO | main | ✓ Download concluído: 12667450 bytes
+2025-10-04 15:47:12 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 15:47:13 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 15:47:18 | INFO | main | ✓ Download concluído: 12667450 bytes
+2025-10-04 15:47:25 | INFO | main | 📦 2020 raw enviado para s3://iptu-recife-raw/year=2020/iptu_2020.zip
+2025-10-04 15:49:22 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 15:49:22 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 15:49:26 | INFO | main | ✓ Download concluído: 12667450 bytes
+2025-10-04 15:49:33 | INFO | main | 📦 2020 raw enviado para s3://iptu-recife-raw/year=2020/iptu_2020.zip
+2025-10-04 15:49:36 | INFO | main | ✓ 0 registros válidos e 403915 inválidos do ano 2020
+2025-10-04 15:49:38 | INFO | main | ✅ 2020 processados enviados para s3://iptu-recife-processed/year=2020/iptu_2020.parquet
+2025-10-04 15:49:51 | INFO | main | ⚠️ 2020 inválidos enviados para s3://iptu-recife-quality/year=2020/iptu_invalid_2020.parquet
+2025-10-04 15:49:51 | INFO | main | 📥 Processando IPTU 2021 (csv)
+2025-10-04 15:49:56 | INFO | main | ✓ Download concluído: 13820870 bytes
+2025-10-04 15:50:02 | INFO | main | 📦 2021 raw enviado para s3://iptu-recife-raw/year=2021/iptu_2021.zip
+2025-10-04 15:50:07 | INFO | main | ✓ 0 registros válidos e 407245 inválidos do ano 2021
+2025-10-04 15:50:07 | INFO | main | ✅ 2021 processados enviados para s3://iptu-recife-processed/year=2021/iptu_2021.parquet
+2025-10-04 15:50:21 | INFO | main | ⚠️ 2021 inválidos enviados para s3://iptu-recife-quality/year=2021/iptu_invalid_2021.parquet
+2025-10-04 15:50:21 | INFO | main | 📥 Processando IPTU 2022 (csv)
+2025-10-04 15:50:25 | INFO | main | ✓ Download concluído: 13221687 bytes
+2025-10-04 15:50:31 | INFO | main | 📦 2022 raw enviado para s3://iptu-recife-raw/year=2022/iptu_2022.zip
+2025-10-04 15:50:38 | INFO | main | ✓ 0 registros válidos e 411090 inválidos do ano 2022
+2025-10-04 15:50:38 | INFO | main | ✅ 2022 processados enviados para s3://iptu-recife-processed/year=2022/iptu_2022.parquet
+2025-10-04 15:50:48 | INFO | main | ⚠️ 2022 inválidos enviados para s3://iptu-recife-quality/year=2022/iptu_invalid_2022.parquet
+2025-10-04 15:50:48 | INFO | main | 📥 Processando IPTU 2023 (csv)
+2025-10-04 15:50:52 | INFO | main | ✓ Download concluído: 13285089 bytes
+2025-10-04 15:50:56 | INFO | main | 📦 2023 raw enviado para s3://iptu-recife-raw/year=2023/iptu_2023.zip
+2025-10-04 15:51:03 | INFO | main | ✓ 0 registros válidos e 415029 inválidos do ano 2023
+2025-10-04 15:51:03 | INFO | main | ✅ 2023 processados enviados para s3://iptu-recife-processed/year=2023/iptu_2023.parquet
+2025-10-04 15:51:14 | INFO | main | ⚠️ 2023 inválidos enviados para s3://iptu-recife-quality/year=2023/iptu_invalid_2023.parquet
+2025-10-04 15:51:14 | INFO | main | 📥 Processando IPTU 2024 (json)
+2025-10-04 15:51:15 | INFO | main | ✓ Download concluído: 33823 bytes
+2025-10-04 15:51:15 | INFO | main | 📦 2024 raw enviado para s3://iptu-recife-raw/year=2024/iptu_2024.zip
+2025-10-04 15:57:05 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 15:57:05 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 15:57:08 | INFO | main | ✓ Download concluído: 12667450 bytes
+2025-10-04 15:57:14 | INFO | main | 📦 2020 raw enviado para s3://iptu-recife-raw/year=2020/iptu_2020.zip
+2025-10-04 15:58:08 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 15:58:09 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 15:58:12 | INFO | main | ✓ Download concluído: 12667450 bytes
+2025-10-04 15:58:19 | INFO | main | 📦 2020 raw enviado para s3://iptu-recife-raw/year=2020/iptu_2020.zip
+2025-10-04 15:58:22 | INFO | main | ✓ 403915 registros válidos e 0 inválidos do ano 2020
+2025-10-04 15:58:35 | INFO | main | ✅ 2020 processados enviados para s3://iptu-recife-processed/year=2020/iptu_2020.parquet
+2025-10-04 15:58:35 | INFO | main | 📥 Processando IPTU 2021 (csv)
+2025-10-04 15:58:39 | INFO | main | ✓ Download concluído: 13820870 bytes
+2025-10-04 15:58:43 | INFO | main | 📦 2021 raw enviado para s3://iptu-recife-raw/year=2021/iptu_2021.zip
+2025-10-04 15:58:46 | INFO | main | ✓ 407245 registros válidos e 0 inválidos do ano 2021
+2025-10-04 15:58:58 | INFO | main | ✅ 2021 processados enviados para s3://iptu-recife-processed/year=2021/iptu_2021.parquet
+2025-10-04 15:58:58 | INFO | main | 📥 Processando IPTU 2022 (csv)
+2025-10-04 15:59:07 | INFO | main | ✓ Download concluído: 13221687 bytes
+2025-10-04 15:59:11 | INFO | main | 📦 2022 raw enviado para s3://iptu-recife-raw/year=2022/iptu_2022.zip
+2025-10-04 15:59:14 | INFO | main | ✓ 411090 registros válidos e 0 inválidos do ano 2022
+2025-10-04 15:59:26 | INFO | main | ✅ 2022 processados enviados para s3://iptu-recife-processed/year=2022/iptu_2022.parquet
+2025-10-04 15:59:26 | INFO | main | 📥 Processando IPTU 2023 (csv)
+2025-10-04 15:59:30 | INFO | main | ✓ Download concluído: 13285089 bytes
+2025-10-04 15:59:34 | INFO | main | 📦 2023 raw enviado para s3://iptu-recife-raw/year=2023/iptu_2023.zip
+2025-10-04 15:59:38 | INFO | main | ✓ 415029 registros válidos e 0 inválidos do ano 2023
+2025-10-04 16:03:00 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 16:03:00 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 16:03:05 | INFO | main | ✓ Download concluído: 12667450 bytes
+2025-10-04 16:03:13 | INFO | main | 📦 2020 raw enviado para s3://iptu-recife-raw/year=2020/iptu_2020.zip
+2025-10-04 16:03:16 | INFO | main | ✓ 403915 registros válidos e 0 inválidos do ano 2020
+2025-10-04 16:03:31 | INFO | main | ✅ 2020 processados enviados para s3://iptu-recife-processed/year=2020/iptu_2020.parquet
+2025-10-04 16:03:31 | INFO | main | 📥 Processando IPTU 2021 (csv)
+2025-10-04 16:03:37 | INFO | main | ✓ Download concluído: 13820870 bytes
+2025-10-04 16:03:44 | INFO | main | 📦 2021 raw enviado para s3://iptu-recife-raw/year=2021/iptu_2021.zip
+2025-10-04 16:03:47 | INFO | main | ✓ 407245 registros válidos e 0 inválidos do ano 2021
+2025-10-04 16:04:02 | INFO | main | ✅ 2021 processados enviados para s3://iptu-recife-processed/year=2021/iptu_2021.parquet
+2025-10-04 16:04:02 | INFO | main | 📥 Processando IPTU 2022 (csv)
+2025-10-04 16:04:05 | INFO | main | ✓ Download concluído: 13221687 bytes
+2025-10-04 16:04:10 | INFO | main | 📦 2022 raw enviado para s3://iptu-recife-raw/year=2022/iptu_2022.zip
+2025-10-04 16:04:13 | INFO | main | ✓ 411090 registros válidos e 0 inválidos do ano 2022
+2025-10-04 16:04:29 | INFO | main | ✅ 2022 processados enviados para s3://iptu-recife-processed/year=2022/iptu_2022.parquet
+2025-10-04 16:04:29 | INFO | main | 📥 Processando IPTU 2023 (csv)
+2025-10-04 16:04:33 | INFO | main | ✓ Download concluído: 13285089 bytes
+2025-10-04 16:04:36 | INFO | main | 📦 2023 raw enviado para s3://iptu-recife-raw/year=2023/iptu_2023.zip
+2025-10-04 16:04:40 | INFO | main | ✓ 415029 registros válidos e 0 inválidos do ano 2023
+2025-10-04 16:04:53 | INFO | main | ✅ 2023 processados enviados para s3://iptu-recife-processed/year=2023/iptu_2023.parquet
+2025-10-04 16:04:53 | INFO | main | 📥 Processando IPTU 2024 (json)
+2025-10-04 16:04:54 | INFO | main | ✓ Download concluído: 33823 bytes
+2025-10-04 16:04:54 | INFO | main | 📦 2024 raw enviado para s3://iptu-recife-raw/year=2024/iptu_2024.zip
+2025-10-04 16:06:07 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 16:06:07 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 16:06:10 | INFO | main | ✓ Download concluído: 12667450 bytes
+2025-10-04 16:06:16 | INFO | main | 📦 2020 raw enviado para s3://iptu-recife-raw/year=2020/iptu_2020.zip
+2025-10-04 16:06:20 | INFO | main | ✓ 403915 registros válidos e 0 inválidos do ano 2020
+2025-10-04 16:06:48 | INFO | main | ✅ 2020 processados enviados para s3://iptu-recife-processed/year=2020/iptu_2020.parquet
+2025-10-04 16:06:48 | INFO | main | 📥 Processando IPTU 2021 (csv)
+2025-10-04 16:06:51 | INFO | main | ✓ Download concluído: 13820870 bytes
+2025-10-04 16:06:57 | INFO | main | 📦 2021 raw enviado para s3://iptu-recife-raw/year=2021/iptu_2021.zip
+2025-10-04 16:07:01 | INFO | main | ✓ 407245 registros válidos e 0 inválidos do ano 2021
+2025-10-04 16:07:14 | INFO | main | ✅ 2021 processados enviados para s3://iptu-recife-processed/year=2021/iptu_2021.parquet
+2025-10-04 16:07:14 | INFO | main | 📥 Processando IPTU 2022 (csv)
+2025-10-04 16:07:17 | INFO | main | ✓ Download concluído: 13221687 bytes
+2025-10-04 16:07:21 | INFO | main | 📦 2022 raw enviado para s3://iptu-recife-raw/year=2022/iptu_2022.zip
+2025-10-04 16:07:24 | INFO | main | ✓ 411090 registros válidos e 0 inválidos do ano 2022
+2025-10-04 16:07:38 | INFO | main | ✅ 2022 processados enviados para s3://iptu-recife-processed/year=2022/iptu_2022.parquet
+2025-10-04 16:07:38 | INFO | main | 📥 Processando IPTU 2023 (csv)
+2025-10-04 16:07:40 | INFO | main | ✓ Download concluído: 13285089 bytes
+2025-10-04 16:07:44 | INFO | main | 📦 2023 raw enviado para s3://iptu-recife-raw/year=2023/iptu_2023.zip
+2025-10-04 16:07:48 | INFO | main | ✓ 415029 registros válidos e 0 inválidos do ano 2023
+2025-10-04 16:08:09 | INFO | main | ✅ 2023 processados enviados para s3://iptu-recife-processed/year=2023/iptu_2023.parquet
+2025-10-04 16:08:09 | INFO | main | 📥 Processando IPTU 2024 (json)
+2025-10-04 16:08:09 | INFO | main | ✓ Download concluído: 33823 bytes
+2025-10-04 16:08:10 | INFO | main | 📦 2024 raw enviado para s3://iptu-recife-raw/year=2024/iptu_2024.zip
+2025-10-04 16:08:10 | INFO | main | ✓ 1 registros válidos e 0 inválidos do ano 2024
+2025-10-04 16:08:10 | INFO | main | ✅ 2024 processados enviados para s3://iptu-recife-processed/year=2024/iptu_2024.parquet
+2025-10-04 16:08:10 | INFO | main | 🔄 Consolidando dataset unificado...
+2025-10-04 16:08:26 | INFO | main | 🏁 Dataset unificado (1637280 registros) enviado para s3://iptu-recife-processed/iptu_unificado.parquet
+2025-10-04 16:08:26 | INFO | main | 📊 Gerando relatório de qualidade...
+2025-10-04 16:08:27 | INFO | main | 📈 Relatório de qualidade enviado para s3://iptu-recife-quality/quality_report.json
+2025-10-04 16:08:27 | INFO | main | ============================================================
+2025-10-04 16:08:27 | INFO | main | 🎉 PIPELINE CONCLUÍDA COM SUCESSO!
+2025-10-04 16:08:27 | INFO | main | ============================================================
+2025-10-04 16:08:27 | INFO | main | Total de registros processados: 1,637,280
+2025-10-04 16:08:27 | INFO | main | Registros válidos: 1,637,280
+2025-10-04 16:08:27 | INFO | main | Registros inválidos: 0
+2025-10-04 16:08:27 | INFO | main | Taxa de qualidade geral: 100.0%
+2025-10-04 16:08:27 | INFO | main | ============================================================
+2025-10-04 16:08:27 | INFO | main | 📦 Buckets S3:
+2025-10-04 16:08:27 | INFO | main |   Raw: s3://iptu-recife-raw/
+2025-10-04 16:08:27 | INFO | main |   Processed: s3://iptu-recife-processed/
+2025-10-04 16:08:27 | INFO | main |   Quality: s3://iptu-recife-quality/
+2025-10-04 16:08:27 | INFO | main | ============================================================
+2025-10-04 16:21:12 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 16:21:12 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 16:21:15 | INFO | main | ✓ Download concluído: 12667450 bytes
+2025-10-04 16:21:22 | INFO | main | 📦 2020 raw enviado para s3://iptu-recife-raw/year=2020/iptu_2020.zip
+2025-10-04 16:21:24 | INFO | main | ✓ 403915 registros carregados do ano 2020
+2025-10-04 16:21:24 | INFO | main | 🔍 Validando qualidade dos dados brutos 2020...
+2025-10-04 16:21:24 | INFO | main | ✓ 403915 registros válidos e 0 inválidos do ano 2020
+2025-10-04 16:21:24 | INFO | main | 🗺️ Mapeando schema para 2020...
+2025-10-04 16:21:25 | INFO | main | 🔧 Harmonizando dados para 2020...
+2025-10-04 16:21:37 | INFO | main | ✅ 2020 processados enviados para s3://iptu-recife-processed/year=2020/iptu_2020.parquet
+2025-10-04 16:21:37 | INFO | main | 📥 Processando IPTU 2021 (csv)
+2025-10-04 16:21:40 | INFO | main | ✓ Download concluído: 13820870 bytes
+2025-10-04 16:21:44 | INFO | main | 📦 2021 raw enviado para s3://iptu-recife-raw/year=2021/iptu_2021.zip
+2025-10-04 16:21:47 | INFO | main | ✓ 407245 registros carregados do ano 2021
+2025-10-04 16:21:47 | INFO | main | 🔍 Validando qualidade dos dados brutos 2021...
+2025-10-04 16:21:48 | INFO | main | ✓ 407245 registros válidos e 0 inválidos do ano 2021
+2025-10-04 16:21:48 | INFO | main | 🗺️ Mapeando schema para 2021...
+2025-10-04 16:21:48 | INFO | main | 🔧 Harmonizando dados para 2021...
+2025-10-04 16:21:56 | INFO | main | ✅ 2021 processados enviados para s3://iptu-recife-processed/year=2021/iptu_2021.parquet
+2025-10-04 16:21:56 | INFO | main | 📥 Processando IPTU 2022 (csv)
+2025-10-04 16:21:59 | INFO | main | ✓ Download concluído: 13221687 bytes
+2025-10-04 16:22:03 | INFO | main | 📦 2022 raw enviado para s3://iptu-recife-raw/year=2022/iptu_2022.zip
+2025-10-04 16:22:06 | INFO | main | ✓ 411090 registros carregados do ano 2022
+2025-10-04 16:22:06 | INFO | main | 🔍 Validando qualidade dos dados brutos 2022...
+2025-10-04 16:22:06 | INFO | main | ✓ 411090 registros válidos e 0 inválidos do ano 2022
+2025-10-04 16:22:06 | INFO | main | 🗺️ Mapeando schema para 2022...
+2025-10-04 16:22:07 | INFO | main | 🔧 Harmonizando dados para 2022...
+2025-10-04 16:22:15 | INFO | main | ✅ 2022 processados enviados para s3://iptu-recife-processed/year=2022/iptu_2022.parquet
+2025-10-04 16:22:15 | INFO | main | 📥 Processando IPTU 2023 (csv)
+2025-10-04 16:22:19 | INFO | main | ✓ Download concluído: 13285089 bytes
+2025-10-04 16:22:23 | INFO | main | 📦 2023 raw enviado para s3://iptu-recife-raw/year=2023/iptu_2023.zip
+2025-10-04 16:22:28 | INFO | main | ✓ 415029 registros carregados do ano 2023
+2025-10-04 16:22:28 | INFO | main | 🔍 Validando qualidade dos dados brutos 2023...
+2025-10-04 16:22:30 | INFO | main | ✓ 415029 registros válidos e 0 inválidos do ano 2023
+2025-10-04 16:22:30 | INFO | main | 🗺️ Mapeando schema para 2023...
+2025-10-04 16:22:30 | INFO | main | 🔧 Harmonizando dados para 2023...
+2025-10-04 16:22:52 | INFO | main | ✅ 2023 processados enviados para s3://iptu-recife-processed/year=2023/iptu_2023.parquet
+2025-10-04 16:22:52 | INFO | main | 📥 Processando IPTU 2024 (json)
+2025-10-04 16:22:53 | INFO | main | ✓ Download concluído: 33823 bytes
+2025-10-04 16:22:54 | INFO | main | 📦 2024 raw enviado para s3://iptu-recife-raw/year=2024/iptu_2024.zip
+2025-10-04 16:22:54 | INFO | main | ✓ 2 registros carregados do ano 2024
+2025-10-04 16:22:54 | INFO | main | 🔍 Validando qualidade dos dados brutos 2024...
+2025-10-04 16:25:58 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 16:25:58 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 16:26:02 | INFO | main | ✓ Download concluído: 12667450 bytes
+2025-10-04 16:26:08 | INFO | main | 📦 2020 raw enviado para s3://iptu-recife-raw/year=2020/iptu_2020.zip
+2025-10-04 16:26:11 | INFO | main | ✓ 403915 registros carregados do ano 2020
+2025-10-04 16:26:11 | INFO | main | 🔍 Validando qualidade dos dados brutos 2020...
+2025-10-04 16:26:12 | INFO | main | ✓ 401458 registros válidos e 2457 inválidos do ano 2020
+2025-10-04 16:26:15 | INFO | main | ⚠️ 2020 inválidos enviados para s3://iptu-recife-quality/year=2020/iptu_invalid_2020.parquet
+2025-10-04 16:26:15 | INFO | main | 🗺️ Mapeando schema para 2020...
+2025-10-04 16:26:15 | INFO | main | 🔧 Harmonizando dados para 2020...
+2025-10-04 16:29:43 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 16:29:43 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 16:29:47 | INFO | main | ✓ Download concluído: 12667450 bytes
+2025-10-04 16:29:59 | INFO | main | 📦 2020 raw enviado para s3://iptu-recife-raw/year=2020/iptu_2020.zip
+2025-10-04 16:30:02 | INFO | main | ✓ 403915 registros carregados do ano 2020
+2025-10-04 16:30:02 | INFO | main | 🔍 Validando qualidade dos dados brutos 2020...
+2025-10-04 16:30:03 | INFO | main | ✓ 401458 registros válidos e 2457 inválidos do ano 2020
+2025-10-04 16:30:06 | INFO | main | ⚠️ 2020 inválidos enviados para s3://iptu-recife-quality/year=2020/iptu_invalid_2020.parquet
+2025-10-04 16:30:06 | INFO | main | 🗺️ Mapeando schema para 2020...
+2025-10-04 16:30:06 | INFO | main | 🔧 Harmonizando dados para 2020...
+2025-10-04 16:30:18 | INFO | main | ✅ 2020 processados enviados para s3://iptu-recife-processed/year=2020/iptu_2020.parquet
+2025-10-04 16:30:18 | INFO | main | 📥 Processando IPTU 2021 (csv)
+2025-10-04 16:30:22 | INFO | main | ✓ Download concluído: 13820870 bytes
+2025-10-04 16:30:26 | INFO | main | 📦 2021 raw enviado para s3://iptu-recife-raw/year=2021/iptu_2021.zip
+2025-10-04 16:30:29 | INFO | main | ✓ 407245 registros carregados do ano 2021
+2025-10-04 16:30:29 | INFO | main | 🔍 Validando qualidade dos dados brutos 2021...
+2025-10-04 16:30:30 | INFO | main | ✓ 404562 registros válidos e 2683 inválidos do ano 2021
+2025-10-04 16:30:31 | INFO | main | ⚠️ 2021 inválidos enviados para s3://iptu-recife-quality/year=2021/iptu_invalid_2021.parquet
+2025-10-04 16:30:31 | INFO | main | 🗺️ Mapeando schema para 2021...
+2025-10-04 16:30:31 | INFO | main | 🔧 Harmonizando dados para 2021...
+2025-10-04 16:30:41 | INFO | main | ✅ 2021 processados enviados para s3://iptu-recife-processed/year=2021/iptu_2021.parquet
+2025-10-04 16:30:41 | INFO | main | 📥 Processando IPTU 2022 (csv)
+2025-10-04 16:30:45 | INFO | main | ✓ Download concluído: 13221687 bytes
+2025-10-04 16:30:49 | INFO | main | 📦 2022 raw enviado para s3://iptu-recife-raw/year=2022/iptu_2022.zip
+2025-10-04 16:30:52 | INFO | main | ✓ 411090 registros carregados do ano 2022
+2025-10-04 16:30:52 | INFO | main | 🔍 Validando qualidade dos dados brutos 2022...
+2025-10-04 16:30:53 | INFO | main | ✓ 407766 registros válidos e 3324 inválidos do ano 2022
+2025-10-04 16:30:53 | INFO | main | ⚠️ 2022 inválidos enviados para s3://iptu-recife-quality/year=2022/iptu_invalid_2022.parquet
+2025-10-04 16:30:53 | INFO | main | 🗺️ Mapeando schema para 2022...
+2025-10-04 16:30:54 | INFO | main | 🔧 Harmonizando dados para 2022...
+2025-10-04 16:31:02 | INFO | main | ✅ 2022 processados enviados para s3://iptu-recife-processed/year=2022/iptu_2022.parquet
+2025-10-04 16:31:02 | INFO | main | 📥 Processando IPTU 2023 (csv)
+2025-10-04 16:31:06 | INFO | main | ✓ Download concluído: 13285089 bytes
+2025-10-04 16:31:10 | INFO | main | 📦 2023 raw enviado para s3://iptu-recife-raw/year=2023/iptu_2023.zip
+2025-10-04 16:31:13 | INFO | main | ✓ 415029 registros carregados do ano 2023
+2025-10-04 16:31:13 | INFO | main | 🔍 Validando qualidade dos dados brutos 2023...
+2025-10-04 16:31:14 | INFO | main | ✓ 411162 registros válidos e 3867 inválidos do ano 2023
+2025-10-04 16:31:15 | INFO | main | ⚠️ 2023 inválidos enviados para s3://iptu-recife-quality/year=2023/iptu_invalid_2023.parquet
+2025-10-04 16:31:15 | INFO | main | 🗺️ Mapeando schema para 2023...
+2025-10-04 16:31:15 | INFO | main | 🔧 Harmonizando dados para 2023...
+2025-10-04 16:31:25 | INFO | main | ✅ 2023 processados enviados para s3://iptu-recife-processed/year=2023/iptu_2023.parquet
+2025-10-04 16:31:25 | INFO | main | 📥 Processando IPTU 2024 (json)
+2025-10-04 16:31:25 | INFO | main | ✓ Download concluído: 33823 bytes
+2025-10-04 16:31:26 | INFO | main | 📦 2024 raw enviado para s3://iptu-recife-raw/year=2024/iptu_2024.zip
+2025-10-04 16:31:26 | INFO | main | ✓ 2 registros carregados do ano 2024
+2025-10-04 16:31:26 | INFO | main | 🔍 Validando qualidade dos dados brutos 2024...
+2025-10-04 16:32:59 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 16:32:59 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 16:33:02 | INFO | main | ✓ Download concluído: 12667450 bytes
+2025-10-04 16:33:09 | INFO | main | 📦 2020 raw enviado para s3://iptu-recife-raw/year=2020/iptu_2020.zip
+2025-10-04 16:33:12 | INFO | main | ✓ 403915 registros carregados do ano 2020
+2025-10-04 16:33:12 | INFO | main | 🔍 Validando qualidade dos dados brutos 2020...
+2025-10-04 16:33:13 | INFO | main | ✓ 401458 registros válidos e 2457 inválidos do ano 2020
+2025-10-04 16:33:16 | INFO | main | ⚠️ 2020 inválidos enviados para s3://iptu-recife-quality/year=2020/iptu_invalid_2020.parquet
+2025-10-04 16:33:16 | INFO | main | 🗺️ Mapeando schema para 2020...
+2025-10-04 16:33:16 | INFO | main | 🔧 Harmonizando dados para 2020...
+2025-10-04 16:33:28 | INFO | main | ✅ 2020 processados enviados para s3://iptu-recife-processed/year=2020/iptu_2020.parquet
+2025-10-04 16:33:28 | INFO | main | 📥 Processando IPTU 2021 (csv)
+2025-10-04 16:33:31 | INFO | main | ✓ Download concluído: 13820870 bytes
+2025-10-04 16:33:35 | INFO | main | 📦 2021 raw enviado para s3://iptu-recife-raw/year=2021/iptu_2021.zip
+2025-10-04 16:33:37 | INFO | main | ✓ 407245 registros carregados do ano 2021
+2025-10-04 16:33:37 | INFO | main | 🔍 Validando qualidade dos dados brutos 2021...
+2025-10-04 16:33:39 | INFO | main | ✓ 404562 registros válidos e 2683 inválidos do ano 2021
+2025-10-04 16:33:39 | INFO | main | ⚠️ 2021 inválidos enviados para s3://iptu-recife-quality/year=2021/iptu_invalid_2021.parquet
+2025-10-04 16:33:39 | INFO | main | 🗺️ Mapeando schema para 2021...
+2025-10-04 16:33:39 | INFO | main | 🔧 Harmonizando dados para 2021...
+2025-10-04 16:33:51 | INFO | main | ✅ 2021 processados enviados para s3://iptu-recife-processed/year=2021/iptu_2021.parquet
+2025-10-04 16:33:51 | INFO | main | 📥 Processando IPTU 2022 (csv)
+2025-10-04 16:33:54 | INFO | main | ✓ Download concluído: 13221687 bytes
+2025-10-04 16:33:59 | INFO | main | 📦 2022 raw enviado para s3://iptu-recife-raw/year=2022/iptu_2022.zip
+2025-10-04 16:34:02 | INFO | main | ✓ 411090 registros carregados do ano 2022
+2025-10-04 16:34:02 | INFO | main | 🔍 Validando qualidade dos dados brutos 2022...
+2025-10-04 16:34:04 | INFO | main | ✓ 407766 registros válidos e 3324 inválidos do ano 2022
+2025-10-04 16:34:04 | INFO | main | ⚠️ 2022 inválidos enviados para s3://iptu-recife-quality/year=2022/iptu_invalid_2022.parquet
+2025-10-04 16:34:04 | INFO | main | 🗺️ Mapeando schema para 2022...
+2025-10-04 16:34:04 | INFO | main | 🔧 Harmonizando dados para 2022...
+2025-10-04 16:34:15 | INFO | main | ✅ 2022 processados enviados para s3://iptu-recife-processed/year=2022/iptu_2022.parquet
+2025-10-04 16:34:15 | INFO | main | 📥 Processando IPTU 2023 (csv)
+2025-10-04 16:34:18 | INFO | main | ✓ Download concluído: 13285089 bytes
+2025-10-04 16:34:22 | INFO | main | 📦 2023 raw enviado para s3://iptu-recife-raw/year=2023/iptu_2023.zip
+2025-10-04 16:34:24 | INFO | main | ✓ 415029 registros carregados do ano 2023
+2025-10-04 16:34:24 | INFO | main | 🔍 Validando qualidade dos dados brutos 2023...
+2025-10-04 16:34:26 | INFO | main | ✓ 411162 registros válidos e 3867 inválidos do ano 2023
+2025-10-04 16:34:26 | INFO | main | ⚠️ 2023 inválidos enviados para s3://iptu-recife-quality/year=2023/iptu_invalid_2023.parquet
+2025-10-04 16:34:26 | INFO | main | 🗺️ Mapeando schema para 2023...
+2025-10-04 16:34:26 | INFO | main | 🔧 Harmonizando dados para 2023...
+2025-10-04 16:34:36 | INFO | main | ✅ 2023 processados enviados para s3://iptu-recife-processed/year=2023/iptu_2023.parquet
+2025-10-04 16:34:36 | INFO | main | 📥 Processando IPTU 2024 (json)
+2025-10-04 16:34:36 | INFO | main | ✓ Download concluído: 33823 bytes
+2025-10-04 16:34:36 | INFO | main | 📦 2024 raw enviado para s3://iptu-recife-raw/year=2024/iptu_2024.zip
+2025-10-04 16:34:36 | INFO | main | ✓ 500 registros carregados do ano 2024
+2025-10-04 16:34:36 | INFO | main | 🔍 Validando qualidade dos dados brutos 2024...
+2025-10-04 16:35:28 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 16:35:28 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 16:35:31 | INFO | main | ✓ Download concluído: 12667450 bytes
+2025-10-04 16:35:38 | INFO | main | 📦 2020 raw enviado para s3://iptu-recife-raw/year=2020/iptu_2020.zip
+2025-10-04 16:35:41 | INFO | main | ✓ 403915 registros carregados do ano 2020
+2025-10-04 16:35:41 | INFO | main | 🔍 Validando qualidade dos dados brutos 2020...
+2025-10-04 16:35:43 | INFO | main | ✓ 401458 registros válidos e 2457 inválidos do ano 2020
+2025-10-04 16:35:46 | INFO | main | ⚠️ 2020 inválidos enviados para s3://iptu-recife-quality/year=2020/iptu_invalid_2020.parquet
+2025-10-04 16:35:46 | INFO | main | 🗺️ Mapeando schema para 2020...
+2025-10-04 16:35:46 | INFO | main | 🔧 Harmonizando dados para 2020...
+2025-10-04 16:35:57 | INFO | main | ✅ 2020 processados enviados para s3://iptu-recife-processed/year=2020/iptu_2020.parquet
+2025-10-04 16:35:57 | INFO | main | 📥 Processando IPTU 2021 (csv)
+2025-10-04 16:36:00 | INFO | main | ✓ Download concluído: 13820870 bytes
+2025-10-04 16:36:05 | INFO | main | 📦 2021 raw enviado para s3://iptu-recife-raw/year=2021/iptu_2021.zip
+2025-10-04 16:36:08 | INFO | main | ✓ 407245 registros carregados do ano 2021
+2025-10-04 16:36:08 | INFO | main | 🔍 Validando qualidade dos dados brutos 2021...
+2025-10-04 16:36:09 | INFO | main | ✓ 404562 registros válidos e 2683 inválidos do ano 2021
+2025-10-04 16:36:10 | INFO | main | ⚠️ 2021 inválidos enviados para s3://iptu-recife-quality/year=2021/iptu_invalid_2021.parquet
+2025-10-04 16:36:10 | INFO | main | 🗺️ Mapeando schema para 2021...
+2025-10-04 16:36:10 | INFO | main | 🔧 Harmonizando dados para 2021...
+2025-10-04 16:36:19 | INFO | main | ✅ 2021 processados enviados para s3://iptu-recife-processed/year=2021/iptu_2021.parquet
+2025-10-04 16:36:19 | INFO | main | 📥 Processando IPTU 2022 (csv)
+2025-10-04 16:36:22 | INFO | main | ✓ Download concluído: 13221687 bytes
+2025-10-04 16:36:26 | INFO | main | 📦 2022 raw enviado para s3://iptu-recife-raw/year=2022/iptu_2022.zip
+2025-10-04 16:36:29 | INFO | main | ✓ 411090 registros carregados do ano 2022
+2025-10-04 16:36:29 | INFO | main | 🔍 Validando qualidade dos dados brutos 2022...
+2025-10-04 16:36:30 | INFO | main | ✓ 407766 registros válidos e 3324 inválidos do ano 2022
+2025-10-04 16:36:31 | INFO | main | ⚠️ 2022 inválidos enviados para s3://iptu-recife-quality/year=2022/iptu_invalid_2022.parquet
+2025-10-04 16:36:31 | INFO | main | 🗺️ Mapeando schema para 2022...
+2025-10-04 16:36:31 | INFO | main | 🔧 Harmonizando dados para 2022...
+2025-10-04 16:36:41 | INFO | main | ✅ 2022 processados enviados para s3://iptu-recife-processed/year=2022/iptu_2022.parquet
+2025-10-04 16:36:41 | INFO | main | 📥 Processando IPTU 2023 (csv)
+2025-10-04 16:36:44 | INFO | main | ✓ Download concluído: 13285089 bytes
+2025-10-04 16:36:48 | INFO | main | 📦 2023 raw enviado para s3://iptu-recife-raw/year=2023/iptu_2023.zip
+2025-10-04 16:36:51 | INFO | main | ✓ 415029 registros carregados do ano 2023
+2025-10-04 16:36:51 | INFO | main | 🔍 Validando qualidade dos dados brutos 2023...
+2025-10-04 16:36:52 | INFO | main | ✓ 411162 registros válidos e 3867 inválidos do ano 2023
+2025-10-04 16:36:52 | INFO | main | ⚠️ 2023 inválidos enviados para s3://iptu-recife-quality/year=2023/iptu_invalid_2023.parquet
+2025-10-04 16:36:52 | INFO | main | 🗺️ Mapeando schema para 2023...
+2025-10-04 16:36:52 | INFO | main | 🔧 Harmonizando dados para 2023...
+2025-10-04 16:37:02 | INFO | main | ✅ 2023 processados enviados para s3://iptu-recife-processed/year=2023/iptu_2023.parquet
+2025-10-04 16:37:02 | INFO | main | 📥 Processando IPTU 2024 (json)
+2025-10-04 16:37:03 | INFO | main | ✓ Download concluído: 33823 bytes
+2025-10-04 16:37:03 | INFO | main | 📦 2024 raw enviado para s3://iptu-recife-raw/year=2024/iptu_2024.zip
+2025-10-04 16:37:03 | INFO | main | ✓ 500 registros carregados do ano 2024
+2025-10-04 16:37:03 | INFO | main | 🔍 Validando qualidade dos dados brutos 2024...
+2025-10-04 16:37:03 | INFO | main | ✓ 500 registros válidos e 0 inválidos do ano 2024
+2025-10-04 16:37:03 | INFO | main | 🗺️ Mapeando schema para 2024...
+2025-10-04 16:38:49 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 16:38:49 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 16:38:53 | INFO | main | ✓ Download concluído: 12667450 bytes
+2025-10-04 16:39:01 | INFO | main | 📦 2020 raw enviado para s3://iptu-recife-raw/year=2020/iptu_2020.zip
+2025-10-04 16:39:03 | INFO | main | ✓ 403915 registros carregados do ano 2020
+2025-10-04 16:39:03 | INFO | main | 🔍 Validando qualidade dos dados brutos 2020...
+2025-10-04 16:39:05 | INFO | main | ✓ 401458 registros válidos e 2457 inválidos do ano 2020
+2025-10-04 16:39:07 | INFO | main | ⚠️ 2020 inválidos enviados para s3://iptu-recife-quality/year=2020/iptu_invalid_2020.parquet
+2025-10-04 16:39:07 | INFO | main | 🗺️ Mapeando schema para 2020...
+2025-10-04 16:39:08 | INFO | main | 🔧 Harmonizando dados para 2020...
+2025-10-04 16:39:20 | INFO | main | ✅ 2020 processados enviados para s3://iptu-recife-processed/year=2020/iptu_2020.parquet
+2025-10-04 16:39:20 | INFO | main | 📥 Processando IPTU 2021 (csv)
+2025-10-04 16:39:23 | INFO | main | ✓ Download concluído: 13820870 bytes
+2025-10-04 16:39:28 | INFO | main | 📦 2021 raw enviado para s3://iptu-recife-raw/year=2021/iptu_2021.zip
+2025-10-04 16:39:30 | INFO | main | ✓ 407245 registros carregados do ano 2021
+2025-10-04 16:39:30 | INFO | main | 🔍 Validando qualidade dos dados brutos 2021...
+2025-10-04 16:39:32 | INFO | main | ✓ 404562 registros válidos e 2683 inválidos do ano 2021
+2025-10-04 16:39:32 | INFO | main | ⚠️ 2021 inválidos enviados para s3://iptu-recife-quality/year=2021/iptu_invalid_2021.parquet
+2025-10-04 16:39:32 | INFO | main | 🗺️ Mapeando schema para 2021...
+2025-10-04 16:39:32 | INFO | main | 🔧 Harmonizando dados para 2021...
+2025-10-04 16:39:41 | INFO | main | ✅ 2021 processados enviados para s3://iptu-recife-processed/year=2021/iptu_2021.parquet
+2025-10-04 16:39:41 | INFO | main | 📥 Processando IPTU 2022 (csv)
+2025-10-04 16:39:44 | INFO | main | ✓ Download concluído: 13221687 bytes
+2025-10-04 16:39:48 | INFO | main | 📦 2022 raw enviado para s3://iptu-recife-raw/year=2022/iptu_2022.zip
+2025-10-04 16:39:52 | INFO | main | ✓ 411090 registros carregados do ano 2022
+2025-10-04 16:39:52 | INFO | main | 🔍 Validando qualidade dos dados brutos 2022...
+2025-10-04 16:39:55 | INFO | main | ✓ 407766 registros válidos e 3324 inválidos do ano 2022
+2025-10-04 16:39:55 | INFO | main | ⚠️ 2022 inválidos enviados para s3://iptu-recife-quality/year=2022/iptu_invalid_2022.parquet
+2025-10-04 16:39:55 | INFO | main | 🗺️ Mapeando schema para 2022...
+2025-10-04 16:39:56 | INFO | main | 🔧 Harmonizando dados para 2022...
+2025-10-04 16:40:05 | INFO | main | ✅ 2022 processados enviados para s3://iptu-recife-processed/year=2022/iptu_2022.parquet
+2025-10-04 16:40:05 | INFO | main | 📥 Processando IPTU 2023 (csv)
+2025-10-04 16:40:08 | INFO | main | ✓ Download concluído: 13285089 bytes
+2025-10-04 16:40:12 | INFO | main | 📦 2023 raw enviado para s3://iptu-recife-raw/year=2023/iptu_2023.zip
+2025-10-04 16:40:15 | INFO | main | ✓ 415029 registros carregados do ano 2023
+2025-10-04 16:40:15 | INFO | main | 🔍 Validando qualidade dos dados brutos 2023...
+2025-10-04 16:40:17 | INFO | main | ✓ 411162 registros válidos e 3867 inválidos do ano 2023
+2025-10-04 16:40:17 | INFO | main | ⚠️ 2023 inválidos enviados para s3://iptu-recife-quality/year=2023/iptu_invalid_2023.parquet
+2025-10-04 16:40:17 | INFO | main | 🗺️ Mapeando schema para 2023...
+2025-10-04 16:40:17 | INFO | main | 🔧 Harmonizando dados para 2023...
+2025-10-04 16:40:26 | INFO | main | ✅ 2023 processados enviados para s3://iptu-recife-processed/year=2023/iptu_2023.parquet
+2025-10-04 16:40:26 | INFO | main | 📥 Processando IPTU 2024 (json)
+2025-10-04 16:40:26 | INFO | main | ✓ Download concluído: 33823 bytes
+2025-10-04 16:40:27 | INFO | main | 📦 2024 raw enviado para s3://iptu-recife-raw/year=2024/iptu_2024.zip
+2025-10-04 16:40:27 | INFO | main | ✓ 500 registros carregados do ano 2024
+2025-10-04 16:40:27 | INFO | main | 🔍 Validando qualidade dos dados brutos 2024...
+2025-10-04 16:40:27 | INFO | main | ✓ 500 registros válidos e 0 inválidos do ano 2024
+2025-10-04 16:40:27 | INFO | main | 🗺️ Mapeando schema para 2024...
+2025-10-04 16:40:27 | INFO | main | 🔧 Harmonizando dados para 2024...
+2025-10-04 16:40:27 | INFO | main | ✅ 2024 processados enviados para s3://iptu-recife-processed/year=2024/iptu_2024.parquet
+2025-10-04 16:40:27 | INFO | main | 🔄 Consolidando dataset unificado...
+2025-10-04 16:40:40 | INFO | main | 🏁 Dataset unificado (1625448 registros) enviado para s3://iptu-recife-processed/iptu_unificado.parquet
+2025-10-04 16:40:40 | INFO | main | 📊 Gerando relatório de qualidade...
+2025-10-04 16:40:41 | INFO | main | 📈 Relatório de qualidade enviado para s3://iptu-recife-quality/quality_report.json
+2025-10-04 16:40:41 | INFO | main | ============================================================
+2025-10-04 16:40:41 | INFO | main | 🎉 PIPELINE CONCLUÍDA COM SUCESSO!
+2025-10-04 16:40:41 | INFO | main | ============================================================
+2025-10-04 16:40:41 | INFO | main | Total de registros processados: 1,637,779
+2025-10-04 16:40:41 | INFO | main | Registros válidos: 1,625,448
+2025-10-04 16:40:41 | INFO | main | Registros inválidos: 12,331
+2025-10-04 16:40:41 | INFO | main | Taxa de qualidade geral: 99.25%
+2025-10-04 16:40:41 | INFO | main | ============================================================
+2025-10-04 16:40:41 | INFO | main | 📦 Buckets S3:
+2025-10-04 16:40:41 | INFO | main |   Raw: s3://iptu-recife-raw/
+2025-10-04 16:40:41 | INFO | main |   Processed: s3://iptu-recife-processed/
+2025-10-04 16:40:41 | INFO | main |   Quality: s3://iptu-recife-quality/
+2025-10-04 16:40:41 | INFO | main | ============================================================
+2025-10-04 16:41:58 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 16:41:58 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 16:42:01 | INFO | main | ✓ Download concluído: 12667450 bytes
+2025-10-04 16:42:07 | INFO | main | 📦 2020 raw enviado para s3://iptu-recife-raw/year=2020/iptu_2020.zip
+2025-10-04 16:42:10 | INFO | main | ✓ 403915 registros carregados do ano 2020
+2025-10-04 16:42:10 | INFO | main | 🔍 Validando qualidade dos dados brutos 2020...
+2025-10-04 16:42:11 | INFO | main | ✓ 401458 registros válidos e 2457 inválidos do ano 2020
+2025-10-04 16:42:14 | INFO | main | ⚠️ 2020 inválidos enviados para s3://iptu-recife-quality/year=2020/iptu_invalid_2020.parquet
+2025-10-04 16:42:14 | INFO | main | 🗺️ Mapeando schema para 2020...
+2025-10-04 16:42:14 | INFO | main | 🔧 Harmonizando dados para 2020...
+2025-10-04 16:42:27 | INFO | main | ✅ 2020 processados enviados para s3://iptu-recife-processed/year=2020/iptu_2020.parquet
+2025-10-04 16:42:27 | INFO | main | 📥 Processando IPTU 2021 (csv)
+2025-10-04 16:42:30 | INFO | main | ✓ Download concluído: 13820870 bytes
+2025-10-04 16:42:34 | INFO | main | 📦 2021 raw enviado para s3://iptu-recife-raw/year=2021/iptu_2021.zip
+2025-10-04 16:42:39 | INFO | main | ✓ 407245 registros carregados do ano 2021
+2025-10-04 16:42:39 | INFO | main | 🔍 Validando qualidade dos dados brutos 2021...
+2025-10-04 16:42:42 | INFO | main | ✓ 404562 registros válidos e 2683 inválidos do ano 2021
+2025-10-04 16:42:43 | INFO | main | ⚠️ 2021 inválidos enviados para s3://iptu-recife-quality/year=2021/iptu_invalid_2021.parquet
+2025-10-04 16:42:43 | INFO | main | 🗺️ Mapeando schema para 2021...
+2025-10-04 16:42:43 | INFO | main | 🔧 Harmonizando dados para 2021...
+2025-10-04 16:42:59 | INFO | main | ✅ 2021 processados enviados para s3://iptu-recife-processed/year=2021/iptu_2021.parquet
+2025-10-04 16:42:59 | INFO | main | 📥 Processando IPTU 2022 (csv)
+2025-10-04 16:43:02 | INFO | main | ✓ Download concluído: 13221687 bytes
+2025-10-04 16:43:09 | INFO | main | 📦 2022 raw enviado para s3://iptu-recife-raw/year=2022/iptu_2022.zip
+2025-10-04 16:43:12 | INFO | main | ✓ 411090 registros carregados do ano 2022
+2025-10-04 16:43:12 | INFO | main | 🔍 Validando qualidade dos dados brutos 2022...
+2025-10-04 16:43:16 | INFO | main | ✓ 407766 registros válidos e 3324 inválidos do ano 2022
+2025-10-04 16:43:18 | INFO | main | ⚠️ 2022 inválidos enviados para s3://iptu-recife-quality/year=2022/iptu_invalid_2022.parquet
+2025-10-04 16:43:18 | INFO | main | 🗺️ Mapeando schema para 2022...
+2025-10-04 16:43:18 | INFO | main | 🔧 Harmonizando dados para 2022...
+2025-10-04 16:43:26 | INFO | main | ✅ 2022 processados enviados para s3://iptu-recife-processed/year=2022/iptu_2022.parquet
+2025-10-04 16:43:26 | INFO | main | 📥 Processando IPTU 2023 (csv)
+2025-10-04 16:43:30 | INFO | main | ✓ Download concluído: 13285089 bytes
+2025-10-04 16:43:34 | INFO | main | 📦 2023 raw enviado para s3://iptu-recife-raw/year=2023/iptu_2023.zip
+2025-10-04 16:43:39 | INFO | main | ✓ 415029 registros carregados do ano 2023
+2025-10-04 16:43:39 | INFO | main | 🔍 Validando qualidade dos dados brutos 2023...
+2025-10-04 16:43:43 | INFO | main | ✓ 411162 registros válidos e 3867 inválidos do ano 2023
+2025-10-04 16:43:43 | INFO | main | ⚠️ 2023 inválidos enviados para s3://iptu-recife-quality/year=2023/iptu_invalid_2023.parquet
+2025-10-04 16:43:43 | INFO | main | 🗺️ Mapeando schema para 2023...
+2025-10-04 16:43:44 | INFO | main | 🔧 Harmonizando dados para 2023...
+2025-10-04 16:43:59 | INFO | main | ✅ 2023 processados enviados para s3://iptu-recife-processed/year=2023/iptu_2023.parquet
+2025-10-04 16:43:59 | INFO | main | 📥 Processando IPTU 2024 (json)
+2025-10-04 16:44:00 | INFO | main | ✓ Download concluído: 33823 bytes
+2025-10-04 16:44:00 | INFO | main | 📦 2024 raw enviado para s3://iptu-recife-raw/year=2024/iptu_2024.zip
+2025-10-04 16:44:00 | INFO | main | ✓ 500 registros carregados do ano 2024
+2025-10-04 16:44:00 | INFO | main | 🔍 Validando qualidade dos dados brutos 2024...
+2025-10-04 16:44:00 | INFO | main | ✓ 500 registros válidos e 0 inválidos do ano 2024
+2025-10-04 16:44:00 | INFO | main | 🗺️ Mapeando schema para 2024...
+2025-10-04 16:44:00 | INFO | main | 🔧 Harmonizando dados para 2024...
+2025-10-04 16:44:01 | INFO | main | ✅ 2024 processados enviados para s3://iptu-recife-processed/year=2024/iptu_2024.parquet
+2025-10-04 16:44:01 | INFO | main | 🔄 Consolidando dataset unificado...
+2025-10-04 16:44:12 | INFO | main | 🏁 Dataset unificado (1625448 registros) enviado para s3://iptu-recife-processed/iptu_unificado.parquet
+2025-10-04 16:44:12 | INFO | main | 📊 Gerando relatório de qualidade...
+2025-10-04 16:44:13 | INFO | main | 📈 Relatório de qualidade enviado para s3://iptu-recife-quality/quality_report.json
+2025-10-04 16:44:13 | INFO | main | ============================================================
+2025-10-04 16:44:13 | INFO | main | 🎉 PIPELINE CONCLUÍDA COM SUCESSO!
+2025-10-04 16:44:13 | INFO | main | ============================================================
+2025-10-04 16:44:13 | INFO | main | Total de registros processados: 1,637,779
+2025-10-04 16:44:13 | INFO | main | Registros válidos: 1,625,448
+2025-10-04 16:44:13 | INFO | main | Registros inválidos: 12,331
+2025-10-04 16:44:13 | INFO | main | Taxa de qualidade geral: 99.25%
+2025-10-04 16:44:13 | INFO | main | ============================================================
+2025-10-04 16:44:13 | INFO | main | 📦 Buckets S3:
+2025-10-04 16:44:13 | INFO | main |   Raw: s3://iptu-recife-raw/
+2025-10-04 16:44:13 | INFO | main |   Processed: s3://iptu-recife-processed/
+2025-10-04 16:44:13 | INFO | main |   Quality: s3://iptu-recife-quality/
+2025-10-04 16:44:13 | INFO | main | ============================================================
+2025-10-04 17:19:52 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 17:19:52 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 17:19:56 | INFO | main | ✓ Download concluído: 12667450 bytes
+2025-10-04 17:20:05 | INFO | main | 📦 2020 raw enviado para s3://iptu-recife-raw/year=2020/iptu_2020.zip
+2025-10-04 17:20:09 | INFO | main | ✓ 403915 registros carregados do ano 2020
+2025-10-04 17:20:09 | INFO | main | 🔍 Validando qualidade dos dados brutos 2020...
+2025-10-04 17:20:12 | INFO | main | ✓ 401458 registros válidos e 2457 inválidos do ano 2020
+2025-10-04 17:20:16 | INFO | main | ⚠️ 2020 inválidos enviados para s3://iptu-recife-quality/year=2020/iptu_invalid_2020.parquet
+2025-10-04 17:20:16 | INFO | main | 🗺️ Mapeando schema para 2020...
+2025-10-04 17:20:16 | INFO | main | 🔧 Harmonizando dados para 2020...
+2025-10-04 17:20:35 | INFO | main | ✅ 2020 processados enviados para s3://iptu-recife-processed/year=2020/iptu_2020.parquet
+2025-10-04 17:20:35 | INFO | main | 📥 Processando IPTU 2021 (csv)
+2025-10-04 17:20:38 | INFO | main | ✓ Download concluído: 13820870 bytes
+2025-10-04 17:20:44 | INFO | main | 📦 2021 raw enviado para s3://iptu-recife-raw/year=2021/iptu_2021.zip
+2025-10-04 17:20:51 | INFO | main | ✓ 407245 registros carregados do ano 2021
+2025-10-04 17:20:51 | INFO | main | 🔍 Validando qualidade dos dados brutos 2021...
+2025-10-04 17:20:56 | INFO | main | ✓ 404562 registros válidos e 2683 inválidos do ano 2021
+2025-10-04 17:20:58 | INFO | main | ⚠️ 2021 inválidos enviados para s3://iptu-recife-quality/year=2021/iptu_invalid_2021.parquet
+2025-10-04 17:20:58 | INFO | main | 🗺️ Mapeando schema para 2021...
+2025-10-04 17:20:58 | INFO | main | 🔧 Harmonizando dados para 2021...
+2025-10-04 17:21:19 | INFO | main | ✅ 2021 processados enviados para s3://iptu-recife-processed/year=2021/iptu_2021.parquet
+2025-10-04 17:21:19 | INFO | main | 📥 Processando IPTU 2022 (csv)
+2025-10-04 17:21:26 | INFO | main | ✓ Download concluído: 13221687 bytes
+2025-10-04 17:21:33 | INFO | main | 📦 2022 raw enviado para s3://iptu-recife-raw/year=2022/iptu_2022.zip
+2025-10-04 17:21:37 | INFO | main | ✓ 411090 registros carregados do ano 2022
+2025-10-04 17:21:37 | INFO | main | 🔍 Validando qualidade dos dados brutos 2022...
+2025-10-04 17:21:39 | INFO | main | ✓ 407766 registros válidos e 3324 inválidos do ano 2022
+2025-10-04 17:21:41 | INFO | main | ⚠️ 2022 inválidos enviados para s3://iptu-recife-quality/year=2022/iptu_invalid_2022.parquet
+2025-10-04 17:21:41 | INFO | main | 🗺️ Mapeando schema para 2022...
+2025-10-04 17:21:41 | INFO | main | 🔧 Harmonizando dados para 2022...
+2025-10-04 17:21:54 | INFO | main | ✅ 2022 processados enviados para s3://iptu-recife-processed/year=2022/iptu_2022.parquet
+2025-10-04 17:21:54 | INFO | main | 📥 Processando IPTU 2023 (csv)
+2025-10-04 17:21:57 | INFO | main | ✓ Download concluído: 13285089 bytes
+2025-10-04 17:22:02 | INFO | main | 📦 2023 raw enviado para s3://iptu-recife-raw/year=2023/iptu_2023.zip
+2025-10-04 17:22:06 | INFO | main | ✓ 415029 registros carregados do ano 2023
+2025-10-04 17:22:06 | INFO | main | 🔍 Validando qualidade dos dados brutos 2023...
+2025-10-04 17:22:08 | INFO | main | ✓ 411162 registros válidos e 3867 inválidos do ano 2023
+2025-10-04 17:22:08 | INFO | main | ⚠️ 2023 inválidos enviados para s3://iptu-recife-quality/year=2023/iptu_invalid_2023.parquet
+2025-10-04 17:22:08 | INFO | main | 🗺️ Mapeando schema para 2023...
+2025-10-04 17:22:09 | INFO | main | 🔧 Harmonizando dados para 2023...
+2025-10-04 17:22:19 | INFO | main | ✅ 2023 processados enviados para s3://iptu-recife-processed/year=2023/iptu_2023.parquet
+2025-10-04 17:22:19 | INFO | main | 📥 Processando IPTU 2024 (json)
+2025-10-04 17:22:20 | INFO | main | ✓ Download concluído: 33823 bytes
+2025-10-04 17:22:20 | INFO | main | 📦 2024 raw enviado para s3://iptu-recife-raw/year=2024/iptu_2024.zip
+2025-10-04 17:22:20 | INFO | main | ✓ 500 registros carregados do ano 2024
+2025-10-04 17:22:20 | INFO | main | 🔍 Validando qualidade dos dados brutos 2024...
+2025-10-04 17:22:20 | INFO | main | ✓ 498 registros válidos e 2 inválidos do ano 2024
+2025-10-04 17:22:21 | INFO | main | ⚠️ 2024 inválidos enviados para s3://iptu-recife-quality/year=2024/iptu_invalid_2024.parquet
+2025-10-04 17:22:21 | INFO | main | 🗺️ Mapeando schema para 2024...
+2025-10-04 17:22:21 | INFO | main | 🔧 Harmonizando dados para 2024...
+2025-10-04 17:22:21 | INFO | main | ✅ 2024 processados enviados para s3://iptu-recife-processed/year=2024/iptu_2024.parquet
+2025-10-04 17:22:21 | INFO | main | 🔄 Consolidando dataset unificado...
+2025-10-04 17:22:35 | INFO | main | 🏁 Dataset unificado (1625446 registros) enviado para s3://iptu-recife-processed/iptu_unificado.parquet
+2025-10-04 17:22:35 | INFO | main | 📊 Gerando relatório de qualidade...
+2025-10-04 17:22:36 | INFO | main | 📈 Relatório de qualidade enviado para s3://iptu-recife-quality/quality_report.json
+2025-10-04 17:22:36 | INFO | main | ============================================================
+2025-10-04 17:22:36 | INFO | main | 🎉 PIPELINE CONCLUÍDA COM SUCESSO!
+2025-10-04 17:22:36 | INFO | main | ============================================================
+2025-10-04 17:22:36 | INFO | main | Total de registros processados: 1,637,779
+2025-10-04 17:22:36 | INFO | main | Registros válidos: 1,625,446
+2025-10-04 17:22:36 | INFO | main | Registros inválidos: 12,333
+2025-10-04 17:22:36 | INFO | main | Taxa de qualidade geral: 99.25%
+2025-10-04 17:22:36 | INFO | main | ============================================================
+2025-10-04 17:22:36 | INFO | main | 📦 Buckets S3:
+2025-10-04 17:22:36 | INFO | main |   Raw: s3://iptu-recife-raw/
+2025-10-04 17:22:36 | INFO | main |   Processed: s3://iptu-recife-processed/
+2025-10-04 17:22:36 | INFO | main |   Quality: s3://iptu-recife-quality/
+2025-10-04 17:22:36 | INFO | main | ============================================================
+2025-10-04 17:25:09 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 17:25:10 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 17:25:13 | INFO | main | ✓ Download concluído: 12667450 bytes
+2025-10-04 17:25:20 | INFO | main | 📦 2020 raw enviado para s3://iptu-recife-raw/year=2020/iptu_2020.zip
+2025-10-04 17:25:24 | INFO | main | ✓ 403915 registros carregados do ano 2020
+2025-10-04 17:25:24 | INFO | main | 🔍 Validando qualidade dos dados brutos 2020...
+2025-10-04 17:25:25 | INFO | main | ✓ 401458 registros válidos e 2457 inválidos do ano 2020
+2025-10-04 17:25:29 | INFO | main | ⚠️ 2020 inválidos enviados para s3://iptu-recife-quality/year=2020/iptu_invalid_2020.parquet
+2025-10-04 17:25:29 | INFO | main | 🗺️ Mapeando schema para 2020...
+2025-10-04 17:25:29 | INFO | main | 🔧 Harmonizando dados para 2020...
+2025-10-04 17:25:48 | INFO | main | ✅ 2020 processados enviados para s3://iptu-recife-processed/year=2020/iptu_2020.parquet
+2025-10-04 17:25:48 | INFO | main | 📥 Processando IPTU 2021 (csv)
+2025-10-04 17:25:51 | INFO | main | ✓ Download concluído: 13820870 bytes
+2025-10-04 17:26:00 | INFO | main | 📦 2021 raw enviado para s3://iptu-recife-raw/year=2021/iptu_2021.zip
+2025-10-04 17:26:07 | INFO | main | ✓ 407245 registros carregados do ano 2021
+2025-10-04 17:26:07 | INFO | main | 🔍 Validando qualidade dos dados brutos 2021...
+2025-10-04 17:26:10 | INFO | main | ✓ 404562 registros válidos e 2683 inválidos do ano 2021
+2025-10-04 17:26:12 | INFO | main | ⚠️ 2021 inválidos enviados para s3://iptu-recife-quality/year=2021/iptu_invalid_2021.parquet
+2025-10-04 17:26:12 | INFO | main | 🗺️ Mapeando schema para 2021...
+2025-10-04 17:26:13 | INFO | main | 🔧 Harmonizando dados para 2021...
+2025-10-04 17:26:29 | INFO | main | ✅ 2021 processados enviados para s3://iptu-recife-processed/year=2021/iptu_2021.parquet
+2025-10-04 17:26:29 | INFO | main | 📥 Processando IPTU 2022 (csv)
+2025-10-04 17:26:32 | INFO | main | ✓ Download concluído: 13221687 bytes
+2025-10-04 17:26:38 | INFO | main | 📦 2022 raw enviado para s3://iptu-recife-raw/year=2022/iptu_2022.zip
+2025-10-04 17:26:44 | INFO | main | ✓ 411090 registros carregados do ano 2022
+2025-10-04 17:26:44 | INFO | main | 🔍 Validando qualidade dos dados brutos 2022...
+2025-10-04 17:26:46 | INFO | main | ✓ 407766 registros válidos e 3324 inválidos do ano 2022
+2025-10-04 17:26:48 | INFO | main | ⚠️ 2022 inválidos enviados para s3://iptu-recife-quality/year=2022/iptu_invalid_2022.parquet
+2025-10-04 17:26:48 | INFO | main | 🗺️ Mapeando schema para 2022...
+2025-10-04 17:26:48 | INFO | main | 🔧 Harmonizando dados para 2022...
+2025-10-04 17:27:00 | INFO | main | ✅ 2022 processados enviados para s3://iptu-recife-processed/year=2022/iptu_2022.parquet
+2025-10-04 17:27:00 | INFO | main | 📥 Processando IPTU 2023 (csv)
+2025-10-04 17:27:04 | INFO | main | ✓ Download concluído: 13285089 bytes
+2025-10-04 17:27:08 | INFO | main | 📦 2023 raw enviado para s3://iptu-recife-raw/year=2023/iptu_2023.zip
+2025-10-04 17:27:12 | INFO | main | ✓ 415029 registros carregados do ano 2023
+2025-10-04 17:27:12 | INFO | main | 🔍 Validando qualidade dos dados brutos 2023...
+2025-10-04 17:27:14 | INFO | main | ✓ 411162 registros válidos e 3867 inválidos do ano 2023
+2025-10-04 17:27:15 | INFO | main | ⚠️ 2023 inválidos enviados para s3://iptu-recife-quality/year=2023/iptu_invalid_2023.parquet
+2025-10-04 17:27:15 | INFO | main | 🗺️ Mapeando schema para 2023...
+2025-10-04 17:27:15 | INFO | main | 🔧 Harmonizando dados para 2023...
+2025-10-04 17:27:32 | INFO | main | ✅ 2023 processados enviados para s3://iptu-recife-processed/year=2023/iptu_2023.parquet
+2025-10-04 17:27:32 | INFO | main | 📥 Processando IPTU 2024 (json)
+2025-10-04 17:27:33 | INFO | main | ✓ Download concluído: 33823 bytes
+2025-10-04 17:27:33 | INFO | main | 📦 2024 raw enviado para s3://iptu-recife-raw/year=2024/iptu_2024.zip
+2025-10-04 17:27:33 | INFO | main | ✓ 500 registros carregados do ano 2024
+2025-10-04 17:27:33 | INFO | main | 🔍 Validando qualidade dos dados brutos 2024...
+2025-10-04 17:27:33 | INFO | main | ✓ 498 registros válidos e 2 inválidos do ano 2024
+2025-10-04 17:27:33 | INFO | main | ⚠️ 2024 inválidos enviados para s3://iptu-recife-quality/year=2024/iptu_invalid_2024.parquet
+2025-10-04 17:27:33 | INFO | main | 🗺️ Mapeando schema para 2024...
+2025-10-04 17:27:33 | INFO | main | 🔧 Harmonizando dados para 2024...
+2025-10-04 17:27:34 | INFO | main | ✅ 2024 processados enviados para s3://iptu-recife-processed/year=2024/iptu_2024.parquet
+2025-10-04 17:27:34 | INFO | main | 🔄 Consolidando dataset unificado...
+2025-10-04 17:27:47 | INFO | main | 🏁 Dataset unificado (1625446 registros) enviado para s3://iptu-recife-processed/iptu_unificado.parquet
+2025-10-04 17:27:47 | INFO | main | 📊 Gerando relatório de qualidade...
+2025-10-04 17:27:47 | INFO | main | 📈 Relatório de qualidade enviado para s3://iptu-recife-quality/quality_report.json
+2025-10-04 17:27:47 | INFO | main | ============================================================
+2025-10-04 17:27:47 | INFO | main | 🎉 PIPELINE CONCLUÍDA COM SUCESSO!
+2025-10-04 17:27:47 | INFO | main | ============================================================
+2025-10-04 17:27:47 | INFO | main | Total de registros processados: 1,637,779
+2025-10-04 17:27:47 | INFO | main | Registros válidos: 1,625,446
+2025-10-04 17:27:47 | INFO | main | Registros inválidos: 12,333
+2025-10-04 17:27:47 | INFO | main | Taxa de qualidade geral: 99.25%
+2025-10-04 17:27:47 | INFO | main | ============================================================
+2025-10-04 17:27:47 | INFO | main | 📦 Buckets S3:
+2025-10-04 17:27:47 | INFO | main |   Raw: s3://iptu-recife-raw/
+2025-10-04 17:27:47 | INFO | main |   Processed: s3://iptu-recife-processed/
+2025-10-04 17:27:47 | INFO | main |   Quality: s3://iptu-recife-quality/
+2025-10-04 17:27:47 | INFO | main | ============================================================
+2025-10-04 17:35:57 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 17:35:58 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 17:36:00 | INFO | main | ✓ Download concluído: 12667450 bytes
+2025-10-04 17:36:07 | INFO | main | 📦 2020 raw enviado para s3://iptu-recife-raw/year=2020/iptu_2020.zip
+2025-10-04 17:36:11 | INFO | main | ✓ 403915 registros carregados do ano 2020
+2025-10-04 17:36:11 | INFO | main | 🔍 Validando qualidade dos dados brutos 2020...
+2025-10-04 17:36:15 | INFO | main | ✓ 401458 registros válidos e 2457 inválidos do ano 2020
+2025-10-04 17:36:19 | INFO | main | ⚠️ 2020 inválidos enviados para s3://iptu-recife-quality/year=2020/iptu_invalid_2020.parquet
+2025-10-04 17:36:19 | INFO | main | 🗺️ Mapeando schema para 2020...
+2025-10-04 17:36:19 | INFO | main | 🔧 Harmonizando dados para 2020...
+2025-10-04 17:36:37 | INFO | main | ✅ 2020 processados enviados para s3://iptu-recife-processed/year=2020/iptu_2020.parquet
+2025-10-04 17:36:37 | INFO | main | 📥 Processando IPTU 2021 (csv)
+2025-10-04 17:36:40 | INFO | main | ✓ Download concluído: 13820870 bytes
+2025-10-04 17:36:49 | INFO | main | 📦 2021 raw enviado para s3://iptu-recife-raw/year=2021/iptu_2021.zip
+2025-10-04 17:36:55 | INFO | main | ✓ 407245 registros carregados do ano 2021
+2025-10-04 17:36:55 | INFO | main | 🔍 Validando qualidade dos dados brutos 2021...
+2025-10-04 17:36:58 | INFO | main | ✓ 404562 registros válidos e 2683 inválidos do ano 2021
+2025-10-04 17:37:00 | INFO | main | ⚠️ 2021 inválidos enviados para s3://iptu-recife-quality/year=2021/iptu_invalid_2021.parquet
+2025-10-04 17:37:00 | INFO | main | 🗺️ Mapeando schema para 2021...
+2025-10-04 17:37:00 | INFO | main | 🔧 Harmonizando dados para 2021...
+2025-10-04 17:37:14 | INFO | main | ✅ 2021 processados enviados para s3://iptu-recife-processed/year=2021/iptu_2021.parquet
+2025-10-04 17:37:14 | INFO | main | 📥 Processando IPTU 2022 (csv)
+2025-10-04 17:37:18 | INFO | main | ✓ Download concluído: 13221687 bytes
+2025-10-04 17:37:25 | INFO | main | 📦 2022 raw enviado para s3://iptu-recife-raw/year=2022/iptu_2022.zip
+2025-10-04 17:39:23 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 17:39:23 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 17:39:25 | INFO | main | ✓ Download concluído: 12667450 bytes
+2025-10-04 17:39:33 | INFO | main | 📦 2020 raw enviado para s3://iptu-recife-raw/year=2020/iptu_2020.zip
+2025-10-04 17:39:42 | INFO | main | ✓ 403915 registros carregados do ano 2020
+2025-10-04 17:39:42 | INFO | main | 🔍 Validando qualidade dos dados brutos 2020...
+2025-10-04 17:39:44 | INFO | main | ✓ 401458 registros válidos e 2457 inválidos do ano 2020
+2025-10-04 17:39:48 | INFO | main | ⚠️ 2020 inválidos enviados para s3://iptu-recife-quality/year=2020/iptu_invalid_2020.parquet
+2025-10-04 17:39:48 | INFO | main | 🗺️ Mapeando schema para 2020...
+2025-10-04 17:39:48 | INFO | main | 🔧 Harmonizando dados para 2020...
+2025-10-04 17:40:04 | INFO | main | ✅ 2020 processados enviados para s3://iptu-recife-processed/year=2020/iptu_2020.parquet
+2025-10-04 17:40:04 | INFO | main | 📥 Processando IPTU 2021 (csv)
+2025-10-04 17:40:07 | INFO | main | ✓ Download concluído: 13820870 bytes
+2025-10-04 17:40:13 | INFO | main | 📦 2021 raw enviado para s3://iptu-recife-raw/year=2021/iptu_2021.zip
+2025-10-04 17:40:17 | INFO | main | ✓ 407245 registros carregados do ano 2021
+2025-10-04 17:40:17 | INFO | main | 🔍 Validando qualidade dos dados brutos 2021...
+2025-10-04 17:40:19 | INFO | main | ✓ 404562 registros válidos e 2683 inválidos do ano 2021
+2025-10-04 17:40:21 | INFO | main | ⚠️ 2021 inválidos enviados para s3://iptu-recife-quality/year=2021/iptu_invalid_2021.parquet
+2025-10-04 17:40:21 | INFO | main | 🗺️ Mapeando schema para 2021...
+2025-10-04 17:40:21 | INFO | main | 🔧 Harmonizando dados para 2021...
+2025-10-04 17:40:35 | INFO | main | ✅ 2021 processados enviados para s3://iptu-recife-processed/year=2021/iptu_2021.parquet
+2025-10-04 17:40:35 | INFO | main | 📥 Processando IPTU 2022 (csv)
+2025-10-04 17:40:37 | INFO | main | ✓ Download concluído: 13221687 bytes
+2025-10-04 17:40:42 | INFO | main | 📦 2022 raw enviado para s3://iptu-recife-raw/year=2022/iptu_2022.zip
+2025-10-04 17:40:50 | INFO | main | ✓ 411090 registros carregados do ano 2022
+2025-10-04 17:40:50 | INFO | main | 🔍 Validando qualidade dos dados brutos 2022...
+2025-10-04 17:40:54 | INFO | main | ✓ 407766 registros válidos e 3324 inválidos do ano 2022
+2025-10-04 17:40:56 | INFO | main | ⚠️ 2022 inválidos enviados para s3://iptu-recife-quality/year=2022/iptu_invalid_2022.parquet
+2025-10-04 17:40:56 | INFO | main | 🗺️ Mapeando schema para 2022...
+2025-10-04 17:40:57 | INFO | main | 🔧 Harmonizando dados para 2022...
+2025-10-04 17:41:06 | INFO | main | ✅ 2022 processados enviados para s3://iptu-recife-processed/year=2022/iptu_2022.parquet
+2025-10-04 17:41:06 | INFO | main | 📥 Processando IPTU 2023 (csv)
+2025-10-04 17:41:09 | INFO | main | ✓ Download concluído: 13285089 bytes
+2025-10-04 17:41:13 | INFO | main | 📦 2023 raw enviado para s3://iptu-recife-raw/year=2023/iptu_2023.zip
+2025-10-04 17:41:18 | INFO | main | ✓ 415029 registros carregados do ano 2023
+2025-10-04 17:41:18 | INFO | main | 🔍 Validando qualidade dos dados brutos 2023...
+2025-10-04 17:41:20 | INFO | main | ✓ 411162 registros válidos e 3867 inválidos do ano 2023
+2025-10-04 17:41:20 | INFO | main | ⚠️ 2023 inválidos enviados para s3://iptu-recife-quality/year=2023/iptu_invalid_2023.parquet
+2025-10-04 17:41:20 | INFO | main | 🗺️ Mapeando schema para 2023...
+2025-10-04 17:41:21 | INFO | main | 🔧 Harmonizando dados para 2023...
+2025-10-04 17:41:31 | INFO | main | ✅ 2023 processados enviados para s3://iptu-recife-processed/year=2023/iptu_2023.parquet
+2025-10-04 17:41:31 | INFO | main | 📥 Processando IPTU 2024 (json)
+2025-10-04 17:41:32 | INFO | main | ✓ Download concluído: 33823 bytes
+2025-10-04 17:41:32 | INFO | main | 📦 2024 raw enviado para s3://iptu-recife-raw/year=2024/iptu_2024.zip
+2025-10-04 17:41:32 | INFO | main | ✓ 500 registros carregados do ano 2024
+2025-10-04 17:41:32 | INFO | main | 🔍 Validando qualidade dos dados brutos 2024...
+2025-10-04 17:41:32 | INFO | main | ✓ 498 registros válidos e 2 inválidos do ano 2024
+2025-10-04 17:41:32 | INFO | main | ⚠️ 2024 inválidos enviados para s3://iptu-recife-quality/year=2024/iptu_invalid_2024.parquet
+2025-10-04 17:41:32 | INFO | main | 🗺️ Mapeando schema para 2024...
+2025-10-04 17:41:32 | INFO | main | 🔧 Harmonizando dados para 2024...
+2025-10-04 17:41:33 | INFO | main | ✅ 2024 processados enviados para s3://iptu-recife-processed/year=2024/iptu_2024.parquet
+2025-10-04 17:41:33 | INFO | main | 🔄 Consolidando dataset unificado...
+2025-10-04 17:41:33 | INFO | main | 📊 Verificando DataFrames antes da consolidação:
+2025-10-04 17:41:33 | INFO | main |   DataFrame 0: 401,458 registros | ano=2020 | ano_exercicio=[np.float64(2020.0)]
+2025-10-04 17:41:33 | INFO | main |   DataFrame 1: 404,562 registros | ano=2021 | ano_exercicio=[np.float64(2021.0)]
+2025-10-04 17:41:33 | INFO | main |   DataFrame 2: 407,766 registros | ano=2022 | ano_exercicio=[np.float64(2022.0)]
+2025-10-04 17:41:33 | INFO | main |   DataFrame 3: 411,162 registros | ano=2023 | ano_exercicio=[np.float64(2023.0)]
+2025-10-04 17:41:33 | INFO | main |   DataFrame 4: 498 registros | ano=2024 | ano_exercicio=[np.float64(2024.0)]
+2025-10-04 17:41:33 | INFO | main | ✓ Consolidação concluída: 1,625,446 registros totais
+2025-10-04 17:41:33 | INFO | main | 📊 Distribuição por ano no dataset unificado:
+2025-10-04 17:41:33 | INFO | main |   ano=2020: 401,458 registros
+2025-10-04 17:41:33 | INFO | main |   ano=2021: 404,562 registros
+2025-10-04 17:41:33 | INFO | main |   ano=2022: 407,766 registros
+2025-10-04 17:41:33 | INFO | main |   ano=2023: 411,162 registros
+2025-10-04 17:41:33 | INFO | main |   ano=2024: 498 registros
+2025-10-04 17:41:33 | INFO | main | 📊 Distribuição por ano_exercicio no dataset unificado:
+2025-10-04 17:41:33 | INFO | main |   ano_exercicio=2020: 401,458 registros
+2025-10-04 17:41:33 | INFO | main |   ano_exercicio=2021: 404,562 registros
+2025-10-04 17:41:33 | INFO | main |   ano_exercicio=2022: 407,766 registros
+2025-10-04 17:41:33 | INFO | main |   ano_exercicio=2023: 411,162 registros
+2025-10-04 17:41:33 | INFO | main |   ano_exercicio=2024: 498 registros
+2025-10-04 17:41:47 | INFO | main | 🏁 Dataset unificado (1625446 registros) enviado para s3://iptu-recife-processed/iptu_unificado.parquet
+2025-10-04 17:41:47 | INFO | main | 📊 Gerando relatório de qualidade...
+2025-10-04 17:41:47 | INFO | main | 📈 Relatório de qualidade enviado para s3://iptu-recife-quality/quality_report.json
+2025-10-04 17:41:47 | INFO | main | ============================================================
+2025-10-04 17:41:47 | INFO | main | 🎉 PIPELINE CONCLUÍDA COM SUCESSO!
+2025-10-04 17:41:47 | INFO | main | ============================================================
+2025-10-04 17:41:47 | INFO | main | Total de registros processados: 1,637,779
+2025-10-04 17:41:47 | INFO | main | Registros válidos: 1,625,446
+2025-10-04 17:41:47 | INFO | main | Registros inválidos: 12,333
+2025-10-04 17:41:47 | INFO | main | Taxa de qualidade geral: 99.25%
+2025-10-04 17:41:47 | INFO | main | ============================================================
+2025-10-04 17:41:47 | INFO | main | 📦 Buckets S3:
+2025-10-04 17:41:47 | INFO | main |   Raw: s3://iptu-recife-raw/
+2025-10-04 17:41:47 | INFO | main |   Processed: s3://iptu-recife-processed/
+2025-10-04 17:41:47 | INFO | main |   Quality: s3://iptu-recife-quality/
+2025-10-04 17:41:47 | INFO | main | ============================================================
+2025-10-04 20:27:25 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 20:27:26 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 20:27:29 | INFO | main | ✓ Download concluído: 12667450 bytes
+2025-10-04 20:27:35 | INFO | main | 📦 2020 raw enviado para s3://iptu-recife-raw/year=2020/iptu_2020.zip
+2025-10-04 20:27:40 | INFO | main | ✓ 403915 registros carregados do ano 2020
+2025-10-04 20:27:40 | INFO | main | 🔍 Validando qualidade dos dados brutos 2020...
+2025-10-04 20:27:43 | INFO | main | ✓ 401458 registros válidos e 2457 inválidos do ano 2020
+2025-10-04 20:27:47 | INFO | main | ⚠️ 2020 inválidos enviados para s3://iptu-recife-quality/year=2020/iptu_invalid_2020.parquet
+2025-10-04 20:27:47 | INFO | main | 🗺️ Mapeando schema para 2020...
+2025-10-04 20:27:48 | INFO | main | 🔧 Harmonizando dados para 2020...
+2025-10-04 20:28:07 | INFO | main | ✅ 2020 processados enviados para s3://iptu-recife-processed/year=2020/iptu_2020.parquet
+2025-10-04 20:28:07 | INFO | main | 📥 Processando IPTU 2021 (csv)
+2025-10-04 20:28:10 | INFO | main | ✓ Download concluído: 13820870 bytes
+2025-10-04 20:28:19 | INFO | main | 📦 2021 raw enviado para s3://iptu-recife-raw/year=2021/iptu_2021.zip
+2025-10-04 20:28:22 | INFO | main | ✓ 407245 registros carregados do ano 2021
+2025-10-04 20:28:22 | INFO | main | 🔍 Validando qualidade dos dados brutos 2021...
+2025-10-04 20:28:23 | INFO | main | ✓ 404562 registros válidos e 2683 inválidos do ano 2021
+2025-10-04 20:28:25 | INFO | main | ⚠️ 2021 inválidos enviados para s3://iptu-recife-quality/year=2021/iptu_invalid_2021.parquet
+2025-10-04 20:28:25 | INFO | main | 🗺️ Mapeando schema para 2021...
+2025-10-04 20:28:25 | INFO | main | 🔧 Harmonizando dados para 2021...
+2025-10-04 20:28:38 | INFO | main | ✅ 2021 processados enviados para s3://iptu-recife-processed/year=2021/iptu_2021.parquet
+2025-10-04 20:28:38 | INFO | main | 📥 Processando IPTU 2022 (csv)
+2025-10-04 20:28:41 | INFO | main | ✓ Download concluído: 13221687 bytes
+2025-10-04 20:28:48 | INFO | main | 📦 2022 raw enviado para s3://iptu-recife-raw/year=2022/iptu_2022.zip
+2025-10-04 20:28:53 | INFO | main | ✓ 411090 registros carregados do ano 2022
+2025-10-04 20:28:53 | INFO | main | 🔍 Validando qualidade dos dados brutos 2022...
+2025-10-04 20:28:56 | INFO | main | ✓ 407766 registros válidos e 3324 inválidos do ano 2022
+2025-10-04 20:28:58 | INFO | main | ⚠️ 2022 inválidos enviados para s3://iptu-recife-quality/year=2022/iptu_invalid_2022.parquet
+2025-10-04 20:28:58 | INFO | main | 🗺️ Mapeando schema para 2022...
+2025-10-04 20:28:58 | INFO | main | 🔧 Harmonizando dados para 2022...
+2025-10-04 20:29:14 | INFO | main | ✅ 2022 processados enviados para s3://iptu-recife-processed/year=2022/iptu_2022.parquet
+2025-10-04 20:29:14 | INFO | main | 📥 Processando IPTU 2023 (csv)
+2025-10-04 20:29:17 | INFO | main | ✓ Download concluído: 13285089 bytes
+2025-10-04 20:29:25 | INFO | main | 📦 2023 raw enviado para s3://iptu-recife-raw/year=2023/iptu_2023.zip
+2025-10-04 20:29:30 | INFO | main | ✓ 415029 registros carregados do ano 2023
+2025-10-04 20:29:30 | INFO | main | 🔍 Validando qualidade dos dados brutos 2023...
+2025-10-04 20:29:34 | INFO | main | ✓ 411162 registros válidos e 3867 inválidos do ano 2023
+2025-10-04 20:29:36 | INFO | main | ⚠️ 2023 inválidos enviados para s3://iptu-recife-quality/year=2023/iptu_invalid_2023.parquet
+2025-10-04 20:29:36 | INFO | main | 🗺️ Mapeando schema para 2023...
+2025-10-04 20:29:36 | INFO | main | 🔧 Harmonizando dados para 2023...
+2025-10-04 20:29:54 | INFO | main | ✅ 2023 processados enviados para s3://iptu-recife-processed/year=2023/iptu_2023.parquet
+2025-10-04 20:29:54 | INFO | main | 📥 Processando IPTU 2024 (json)
+2025-10-04 20:29:54 | INFO | main | ✓ Download concluído: 33823 bytes
+2025-10-04 20:29:55 | INFO | main | 📦 2024 raw enviado para s3://iptu-recife-raw/year=2024/iptu_2024.zip
+2025-10-04 20:29:55 | INFO | main | ✓ 500 registros carregados do ano 2024
+2025-10-04 20:29:55 | INFO | main | 🔍 Validando qualidade dos dados brutos 2024...
+2025-10-04 20:29:55 | INFO | main | ✓ 498 registros válidos e 2 inválidos do ano 2024
+2025-10-04 20:29:55 | INFO | main | ⚠️ 2024 inválidos enviados para s3://iptu-recife-quality/year=2024/iptu_invalid_2024.parquet
+2025-10-04 20:29:55 | INFO | main | 🗺️ Mapeando schema para 2024...
+2025-10-04 20:29:55 | INFO | main | 🔧 Harmonizando dados para 2024...
+2025-10-04 20:29:56 | INFO | main | ✅ 2024 processados enviados para s3://iptu-recife-processed/year=2024/iptu_2024.parquet
+2025-10-04 20:29:56 | INFO | main | 🔄 Consolidando dataset unificado...
+2025-10-04 20:29:56 | INFO | main | 📊 Verificando DataFrames antes da consolidação:
+2025-10-04 20:29:56 | INFO | main |   DataFrame 0: 401,458 registros | ano=2020 | ano_exercicio=[np.float64(2020.0)]
+2025-10-04 20:29:56 | INFO | main |   DataFrame 1: 404,562 registros | ano=2021 | ano_exercicio=[np.float64(2021.0)]
+2025-10-04 20:29:56 | INFO | main |   DataFrame 2: 407,766 registros | ano=2022 | ano_exercicio=[np.float64(2022.0)]
+2025-10-04 20:29:56 | INFO | main |   DataFrame 3: 411,162 registros | ano=2023 | ano_exercicio=[np.float64(2023.0)]
+2025-10-04 20:29:56 | INFO | main |   DataFrame 4: 498 registros | ano=2024 | ano_exercicio=[np.float64(2024.0)]
+2025-10-04 20:29:56 | INFO | main | ✓ Consolidação concluída: 1,625,446 registros totais
+2025-10-04 20:29:56 | INFO | main | 📊 Distribuição por ano no dataset unificado:
+2025-10-04 20:29:56 | INFO | main |   ano=2020: 401,458 registros
+2025-10-04 20:29:56 | INFO | main |   ano=2021: 404,562 registros
+2025-10-04 20:29:56 | INFO | main |   ano=2022: 407,766 registros
+2025-10-04 20:29:56 | INFO | main |   ano=2023: 411,162 registros
+2025-10-04 20:29:56 | INFO | main |   ano=2024: 498 registros
+2025-10-04 20:29:56 | INFO | main | 📊 Distribuição por ano_exercicio no dataset unificado:
+2025-10-04 20:29:56 | INFO | main |   ano_exercicio=2020: 401,458 registros
+2025-10-04 20:29:56 | INFO | main |   ano_exercicio=2021: 404,562 registros
+2025-10-04 20:29:56 | INFO | main |   ano_exercicio=2022: 407,766 registros
+2025-10-04 20:29:56 | INFO | main |   ano_exercicio=2023: 411,162 registros
+2025-10-04 20:29:56 | INFO | main |   ano_exercicio=2024: 498 registros
+2025-10-04 21:08:45 | INFO | main | Iniciando pipeline IPTU Recife 🚀
+2025-10-04 21:08:45 | INFO | main | 📥 Processando IPTU 2020 (csv)
+2025-10-04 21:08:48 | INFO | main | ✓ Download concluído: 12667450 bytes
+2025-10-04 21:08:55 | INFO | main | 📦 2020 raw enviado para s3://iptu-recife-raw/year=2020/iptu_2020.zip
+2025-10-04 21:08:57 | INFO | main | ✓ 403915 registros carregados do ano 2020
+2025-10-04 21:08:57 | INFO | main | 🔍 Validando qualidade dos dados brutos 2020...
+2025-10-04 21:08:59 | INFO | main | ✓ 401458 registros válidos e 2457 inválidos do ano 2020
+2025-10-04 21:09:02 | INFO | main | ⚠️ 2020 inválidos enviados para s3://iptu-recife-quality/year=2020/iptu_invalid_2020.parquet
+2025-10-04 21:09:02 | INFO | main | 🗺️ Mapeando schema para 2020...
+2025-10-04 21:09:02 | INFO | main | 🔧 Harmonizando dados para 2020...
+2025-10-04 21:09:14 | INFO | main | ✅ 2020 processados enviados para s3://iptu-recife-processed/year=2020/iptu_2020.parquet
+2025-10-04 21:09:14 | INFO | main | 📥 Processando IPTU 2021 (csv)
+2025-10-04 21:09:17 | INFO | main | ✓ Download concluído: 13820870 bytes
+2025-10-04 21:09:22 | INFO | main | 📦 2021 raw enviado para s3://iptu-recife-raw/year=2021/iptu_2021.zip
+2025-10-04 21:09:24 | INFO | main | ✓ 407245 registros carregados do ano 2021
+2025-10-04 21:09:24 | INFO | main | 🔍 Validando qualidade dos dados brutos 2021...
+2025-10-04 21:09:25 | INFO | main | ✓ 404562 registros válidos e 2683 inválidos do ano 2021
+2025-10-04 21:09:26 | INFO | main | ⚠️ 2021 inválidos enviados para s3://iptu-recife-quality/year=2021/iptu_invalid_2021.parquet
+2025-10-04 21:09:26 | INFO | main | 🗺️ Mapeando schema para 2021...
+2025-10-04 21:09:26 | INFO | main | 🔧 Harmonizando dados para 2021...
+2025-10-04 21:09:39 | INFO | main | ✅ 2021 processados enviados para s3://iptu-recife-processed/year=2021/iptu_2021.parquet
+2025-10-04 21:09:39 | INFO | main | 📥 Processando IPTU 2022 (csv)
+2025-10-04 21:09:42 | INFO | main | ✓ Download concluído: 13221687 bytes
+2025-10-04 21:09:46 | INFO | main | 📦 2022 raw enviado para s3://iptu-recife-raw/year=2022/iptu_2022.zip
+2025-10-04 21:09:50 | INFO | main | ✓ 411090 registros carregados do ano 2022
+2025-10-04 21:09:50 | INFO | main | 🔍 Validando qualidade dos dados brutos 2022...
+2025-10-04 21:09:51 | INFO | main | ✓ 407766 registros válidos e 3324 inválidos do ano 2022
+2025-10-04 21:09:51 | INFO | main | ⚠️ 2022 inválidos enviados para s3://iptu-recife-quality/year=2022/iptu_invalid_2022.parquet
+2025-10-04 21:09:51 | INFO | main | 🗺️ Mapeando schema para 2022...
+2025-10-04 21:09:51 | INFO | main | 🔧 Harmonizando dados para 2022...
+2025-10-04 21:09:59 | INFO | main | ✅ 2022 processados enviados para s3://iptu-recife-processed/year=2022/iptu_2022.parquet
+2025-10-04 21:09:59 | INFO | main | 📥 Processando IPTU 2023 (csv)
+2025-10-04 21:10:02 | INFO | main | ✓ Download concluído: 13285089 bytes
+2025-10-04 21:10:06 | INFO | main | 📦 2023 raw enviado para s3://iptu-recife-raw/year=2023/iptu_2023.zip
+2025-10-04 21:10:11 | INFO | main | ✓ 415029 registros carregados do ano 2023
+2025-10-04 21:10:11 | INFO | main | 🔍 Validando qualidade dos dados brutos 2023...
+2025-10-04 21:10:13 | INFO | main | ✓ 411162 registros válidos e 3867 inválidos do ano 2023
+2025-10-04 21:10:13 | INFO | main | ⚠️ 2023 inválidos enviados para s3://iptu-recife-quality/year=2023/iptu_invalid_2023.parquet
+2025-10-04 21:10:13 | INFO | main | 🗺️ Mapeando schema para 2023...
+2025-10-04 21:10:13 | INFO | main | 🔧 Harmonizando dados para 2023...
+2025-10-04 21:10:21 | INFO | main | ✅ 2023 processados enviados para s3://iptu-recife-processed/year=2023/iptu_2023.parquet
+2025-10-04 21:10:21 | INFO | main | 📥 Processando IPTU 2024 (json)
+2025-10-04 21:10:22 | INFO | main | ✓ Download concluído: 33823 bytes
+2025-10-04 21:10:22 | INFO | main | 📦 2024 raw enviado para s3://iptu-recife-raw/year=2024/iptu_2024.zip
+2025-10-04 21:10:22 | INFO | main | ✓ 500 registros carregados do ano 2024
+2025-10-04 21:10:22 | INFO | main | 🔍 Validando qualidade dos dados brutos 2024...
+2025-10-04 21:10:22 | INFO | main | ✓ 498 registros válidos e 2 inválidos do ano 2024
+2025-10-04 21:10:22 | INFO | main | ⚠️ 2024 inválidos enviados para s3://iptu-recife-quality/year=2024/iptu_invalid_2024.parquet
+2025-10-04 21:10:22 | INFO | main | 🗺️ Mapeando schema para 2024...
+2025-10-04 21:10:23 | INFO | main | 🔧 Harmonizando dados para 2024...
+2025-10-04 21:10:23 | INFO | main | ✅ 2024 processados enviados para s3://iptu-recife-processed/year=2024/iptu_2024.parquet
+2025-10-04 21:10:23 | INFO | main | 🔄 Consolidando dataset unificado...
+2025-10-04 21:10:23 | INFO | main | 📊 Verificando DataFrames antes da consolidação:
+2025-10-04 21:10:23 | INFO | main |   DataFrame 0: 401,458 registros | ano=2020 | ano_exercicio=[np.float64(2020.0)]
+2025-10-04 21:10:23 | INFO | main |   DataFrame 1: 404,562 registros | ano=2021 | ano_exercicio=[np.float64(2021.0)]
+2025-10-04 21:10:23 | INFO | main |   DataFrame 2: 407,766 registros | ano=2022 | ano_exercicio=[np.float64(2022.0)]
+2025-10-04 21:10:23 | INFO | main |   DataFrame 3: 411,162 registros | ano=2023 | ano_exercicio=[np.float64(2023.0)]
+2025-10-04 21:10:23 | INFO | main |   DataFrame 4: 498 registros | ano=2024 | ano_exercicio=[np.float64(2024.0)]
+2025-10-04 21:10:23 | INFO | main | ✓ Consolidação concluída: 1,625,446 registros totais
+2025-10-04 21:10:23 | INFO | main | 📊 Distribuição por ano no dataset unificado:
+2025-10-04 21:10:23 | INFO | main |   ano=2020: 401,458 registros
+2025-10-04 21:10:23 | INFO | main |   ano=2021: 404,562 registros
+2025-10-04 21:10:23 | INFO | main |   ano=2022: 407,766 registros
+2025-10-04 21:10:23 | INFO | main |   ano=2023: 411,162 registros
+2025-10-04 21:10:23 | INFO | main |   ano=2024: 498 registros
+2025-10-04 21:10:23 | INFO | main | 📊 Distribuição por ano_exercicio no dataset unificado:
+2025-10-04 21:10:23 | INFO | main |   ano_exercicio=2020: 401,458 registros
+2025-10-04 21:10:23 | INFO | main |   ano_exercicio=2021: 404,562 registros
+2025-10-04 21:10:23 | INFO | main |   ano_exercicio=2022: 407,766 registros
+2025-10-04 21:10:23 | INFO | main |   ano_exercicio=2023: 411,162 registros
+2025-10-04 21:10:23 | INFO | main |   ano_exercicio=2024: 498 registros
+2025-10-04 21:10:35 | INFO | main | 🏁 Dataset unificado (1625446 registros) enviado para s3://iptu-recife-processed/iptu_unificado.parquet
+2025-10-04 21:10:35 | INFO | main | 📊 Gerando relatório de qualidade...
+2025-10-04 21:10:35 | INFO | main | 📈 Relatório de qualidade enviado para s3://iptu-recife-quality/quality_report.json
+2025-10-04 21:10:35 | INFO | main | ============================================================
+2025-10-04 21:10:35 | INFO | main | 🎉 PIPELINE CONCLUÍDA COM SUCESSO!
+2025-10-04 21:10:35 | INFO | main | ============================================================
+2025-10-04 21:10:35 | INFO | main | Total de registros processados: 1,637,779
+2025-10-04 21:10:35 | INFO | main | Registros válidos: 1,625,446
+2025-10-04 21:10:35 | INFO | main | Registros inválidos: 12,333
+2025-10-04 21:10:35 | INFO | main | Taxa de qualidade geral: 99.25%
+2025-10-04 21:10:35 | INFO | main | ============================================================
+2025-10-04 21:10:35 | INFO | main | 📦 Buckets S3:
+2025-10-04 21:10:35 | INFO | main |   Raw: s3://iptu-recife-raw/
+2025-10-04 21:10:35 | INFO | main |   Processed: s3://iptu-recife-processed/
+2025-10-04 21:10:35 | INFO | main |   Quality: s3://iptu-recife-quality/
+2025-10-04 21:10:35 | INFO | main | ============================================================

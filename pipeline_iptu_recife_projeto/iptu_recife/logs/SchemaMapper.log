@@ -1,0 +1,707 @@
+2025-10-04 15:58:22 | INFO | SchemaMapper | Mapeando 403915 registros com 32 colunas
+2025-10-04 15:58:22 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 15:58:23 | INFO | SchemaMapper | ✓ Mapeamento concluído: 403915 registros, 32 colunas padrão
+2025-10-04 15:58:46 | INFO | SchemaMapper | Mapeando 407245 registros com 32 colunas
+2025-10-04 15:58:46 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 15:58:47 | INFO | SchemaMapper | ✓ Mapeamento concluído: 407245 registros, 32 colunas padrão
+2025-10-04 15:59:14 | INFO | SchemaMapper | Mapeando 411090 registros com 32 colunas
+2025-10-04 15:59:14 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 15:59:15 | INFO | SchemaMapper | ✓ Mapeamento concluído: 411090 registros, 32 colunas padrão
+2025-10-04 15:59:38 | INFO | SchemaMapper | Mapeando 415029 registros com 32 colunas
+2025-10-04 15:59:38 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 15:59:38 | INFO | SchemaMapper | ✓ Mapeamento concluído: 415029 registros, 32 colunas padrão
+2025-10-04 16:03:16 | INFO | SchemaMapper | Mapeando 403915 registros com 32 colunas
+2025-10-04 16:03:16 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:03:17 | INFO | SchemaMapper | ✓ Mapeamento concluído: 403915 registros, 32 colunas padrão
+2025-10-04 16:03:47 | INFO | SchemaMapper | Mapeando 407245 registros com 32 colunas
+2025-10-04 16:03:47 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:03:48 | INFO | SchemaMapper | ✓ Mapeamento concluído: 407245 registros, 32 colunas padrão
+2025-10-04 16:04:13 | INFO | SchemaMapper | Mapeando 411090 registros com 32 colunas
+2025-10-04 16:04:13 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:04:14 | INFO | SchemaMapper | ✓ Mapeamento concluído: 411090 registros, 32 colunas padrão
+2025-10-04 16:04:40 | INFO | SchemaMapper | Mapeando 415029 registros com 32 colunas
+2025-10-04 16:04:40 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:04:41 | INFO | SchemaMapper | ✓ Mapeamento concluído: 415029 registros, 32 colunas padrão
+2025-10-04 16:06:20 | INFO | SchemaMapper | Mapeando 403915 registros com 32 colunas
+2025-10-04 16:06:20 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:06:20 | INFO | SchemaMapper | ✓ Mapeamento concluído: 403915 registros, 32 colunas padrão
+2025-10-04 16:07:01 | INFO | SchemaMapper | Mapeando 407245 registros com 32 colunas
+2025-10-04 16:07:01 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:07:01 | INFO | SchemaMapper | ✓ Mapeamento concluído: 407245 registros, 32 colunas padrão
+2025-10-04 16:07:24 | INFO | SchemaMapper | Mapeando 411090 registros com 32 colunas
+2025-10-04 16:07:24 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:07:25 | INFO | SchemaMapper | ✓ Mapeamento concluído: 411090 registros, 32 colunas padrão
+2025-10-04 16:07:48 | INFO | SchemaMapper | Mapeando 415029 registros com 32 colunas
+2025-10-04 16:07:48 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:07:48 | INFO | SchemaMapper | ✓ Mapeamento concluído: 415029 registros, 32 colunas padrão
+2025-10-04 16:08:10 | INFO | SchemaMapper | Mapeando 1 registros com 2 colunas
+2025-10-04 16:08:10 | INFO | SchemaMapper | Colunas originais: ['fields', 'records']...
+2025-10-04 16:08:10 | WARNING | SchemaMapper | Coluna 'fields' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:08:10 | WARNING | SchemaMapper | Coluna 'records' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:08:10 | INFO | SchemaMapper | ✓ Mapeamento concluído: 1 registros, 32 colunas padrão
+2025-10-04 16:21:24 | INFO | SchemaMapper | Mapeando 403915 registros com 32 colunas
+2025-10-04 16:21:24 | INFO | SchemaMapper | Colunas originais: ['NÃºmero do contribuinte', 'ano do exercÃ\xadcio', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:21:24 | WARNING | SchemaMapper | Coluna 'NÃºmero do contribuinte' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:24 | WARNING | SchemaMapper | Coluna 'ano do exercÃ­cio' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:24 | WARNING | SchemaMapper | Coluna 'fraÃ§Ã£o ideal' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:24 | WARNING | SchemaMapper | Coluna 'Ã¡rea ocupada' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:24 | WARNING | SchemaMapper | Coluna 'valor do m2 de construÃ§Ã£o' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:24 | WARNING | SchemaMapper | Coluna 'ano da construÃ§Ã£o corrigido' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:24 | WARNING | SchemaMapper | Coluna 'tipo de uso do imÃ³vel' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:24 | WARNING | SchemaMapper | Coluna 'tipo de padrÃ£o da construÃ§Ã£o' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:24 | WARNING | SchemaMapper | Coluna 'fator de obsolescÃªncia' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:24 | WARNING | SchemaMapper | Coluna 'ano e mÃªs de inÃ­cio da contribuiÃ§Ã£o' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:24 | WARNING | SchemaMapper | Coluna 'valor total do imÃ³vel estimado' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:24 | WARNING | SchemaMapper | Coluna 'Regime de TributaÃ§Ã£o do iptu' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:24 | WARNING | SchemaMapper | Coluna 'Regime de TributaÃ§Ã£o da trsd' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:25 | WARNING | SchemaMapper | Coluna 'Tipo de ConstruÃ§Ã£o' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:25 | WARNING | SchemaMapper | Coluna 'CÃ³digo Logradouro' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:25 | INFO | SchemaMapper | ✓ Mapeamento concluído: 403915 registros, 32 colunas padrão
+2025-10-04 16:21:48 | INFO | SchemaMapper | Mapeando 407245 registros com 32 colunas
+2025-10-04 16:21:48 | INFO | SchemaMapper | Colunas originais: ['NÃºmero do contribuinte', 'ano do exercÃ\xadcio', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:21:48 | WARNING | SchemaMapper | Coluna 'NÃºmero do contribuinte' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:48 | WARNING | SchemaMapper | Coluna 'ano do exercÃ­cio' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:48 | WARNING | SchemaMapper | Coluna 'fraÃ§Ã£o ideal' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:48 | WARNING | SchemaMapper | Coluna 'Ã¡rea ocupada' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:48 | WARNING | SchemaMapper | Coluna 'valor do m2 de construÃ§Ã£o' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:48 | WARNING | SchemaMapper | Coluna 'ano da construÃ§Ã£o corrigido' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:48 | WARNING | SchemaMapper | Coluna 'tipo de uso do imÃ³vel' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:48 | WARNING | SchemaMapper | Coluna 'tipo de padrÃ£o da construÃ§Ã£o' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:48 | WARNING | SchemaMapper | Coluna 'fator de obsolescÃªncia' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:48 | WARNING | SchemaMapper | Coluna 'ano e mÃªs de inÃ­cio da contribuiÃ§Ã£o' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:48 | WARNING | SchemaMapper | Coluna 'valor total do imÃ³vel estimado' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:48 | WARNING | SchemaMapper | Coluna 'Regime de TributaÃ§Ã£o do iptu' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:48 | WARNING | SchemaMapper | Coluna 'Regime de TributaÃ§Ã£o da trsd' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:48 | WARNING | SchemaMapper | Coluna 'Tipo de ConstruÃ§Ã£o' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:48 | WARNING | SchemaMapper | Coluna 'CÃ³digo Logradouro' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:21:48 | INFO | SchemaMapper | ✓ Mapeamento concluído: 407245 registros, 32 colunas padrão
+2025-10-04 16:22:06 | INFO | SchemaMapper | Mapeando 411090 registros com 32 colunas
+2025-10-04 16:22:06 | INFO | SchemaMapper | Colunas originais: ['NÃºmero do contribuinte', 'ano do exercÃ\xadcio', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:22:06 | WARNING | SchemaMapper | Coluna 'NÃºmero do contribuinte' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:06 | WARNING | SchemaMapper | Coluna 'ano do exercÃ­cio' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:06 | WARNING | SchemaMapper | Coluna 'fraÃ§Ã£o ideal' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:06 | WARNING | SchemaMapper | Coluna 'Ã¡rea ocupada' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:06 | WARNING | SchemaMapper | Coluna 'valor do m2 de construÃ§Ã£o' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:06 | WARNING | SchemaMapper | Coluna 'ano da construÃ§Ã£o corrigido' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:06 | WARNING | SchemaMapper | Coluna 'tipo de uso do imÃ³vel' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:06 | WARNING | SchemaMapper | Coluna 'tipo de padrÃ£o da construÃ§Ã£o' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:06 | WARNING | SchemaMapper | Coluna 'fator de obsolescÃªncia' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:06 | WARNING | SchemaMapper | Coluna 'ano e mÃªs de inÃ­cio da contribuiÃ§Ã£o' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:06 | WARNING | SchemaMapper | Coluna 'valor total do imÃ³vel estimado' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:06 | WARNING | SchemaMapper | Coluna 'Regime de TributaÃ§Ã£o do iptu' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:06 | WARNING | SchemaMapper | Coluna 'Regime de TributaÃ§Ã£o da trsd' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:06 | WARNING | SchemaMapper | Coluna 'Tipo de ConstruÃ§Ã£o' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:06 | WARNING | SchemaMapper | Coluna 'CÃ³digo Logradouro' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:06 | INFO | SchemaMapper | ✓ Mapeamento concluído: 411090 registros, 32 colunas padrão
+2025-10-04 16:22:30 | INFO | SchemaMapper | Mapeando 415029 registros com 32 colunas
+2025-10-04 16:22:30 | INFO | SchemaMapper | Colunas originais: ['NÃºmero do contribuinte', 'ano do exercÃ\xadcio', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:22:30 | WARNING | SchemaMapper | Coluna 'NÃºmero do contribuinte' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:30 | WARNING | SchemaMapper | Coluna 'ano do exercÃ­cio' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:30 | WARNING | SchemaMapper | Coluna 'fraÃ§Ã£o ideal' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:30 | WARNING | SchemaMapper | Coluna 'Ã¡rea ocupada' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:30 | WARNING | SchemaMapper | Coluna 'valor do m2 de construÃ§Ã£o' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:30 | WARNING | SchemaMapper | Coluna 'ano da construÃ§Ã£o corrigido' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:30 | WARNING | SchemaMapper | Coluna 'tipo de uso do imÃ³vel' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:30 | WARNING | SchemaMapper | Coluna 'tipo de padrÃ£o da construÃ§Ã£o' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:30 | WARNING | SchemaMapper | Coluna 'fator de obsolescÃªncia' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:30 | WARNING | SchemaMapper | Coluna 'ano e mÃªs de inÃ­cio da contribuiÃ§Ã£o' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:30 | WARNING | SchemaMapper | Coluna 'valor total do imÃ³vel estimado' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:30 | WARNING | SchemaMapper | Coluna 'Regime de TributaÃ§Ã£o do iptu' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:30 | WARNING | SchemaMapper | Coluna 'Regime de TributaÃ§Ã£o da trsd' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:30 | WARNING | SchemaMapper | Coluna 'Tipo de ConstruÃ§Ã£o' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:30 | WARNING | SchemaMapper | Coluna 'CÃ³digo Logradouro' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:22:30 | INFO | SchemaMapper | ✓ Mapeamento concluído: 415029 registros, 32 colunas padrão
+2025-10-04 16:26:15 | INFO | SchemaMapper | Mapeando 401458 registros com 32 colunas
+2025-10-04 16:26:15 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:26:15 | INFO | SchemaMapper | ✓ Mapeamento concluído: 401458 registros, 32 colunas padrão
+2025-10-04 16:30:06 | INFO | SchemaMapper | Mapeando 401458 registros com 32 colunas
+2025-10-04 16:30:06 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:30:06 | INFO | SchemaMapper | ✓ Mapeamento concluído: 401458 registros, 32 colunas padrão
+2025-10-04 16:30:31 | INFO | SchemaMapper | Mapeando 404562 registros com 32 colunas
+2025-10-04 16:30:31 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:30:31 | INFO | SchemaMapper | ✓ Mapeamento concluído: 404562 registros, 32 colunas padrão
+2025-10-04 16:30:53 | INFO | SchemaMapper | Mapeando 407766 registros com 32 colunas
+2025-10-04 16:30:53 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:30:54 | INFO | SchemaMapper | ✓ Mapeamento concluído: 407766 registros, 32 colunas padrão
+2025-10-04 16:31:15 | INFO | SchemaMapper | Mapeando 411162 registros com 32 colunas
+2025-10-04 16:31:15 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:31:15 | INFO | SchemaMapper | ✓ Mapeamento concluído: 411162 registros, 32 colunas padrão
+2025-10-04 16:33:16 | INFO | SchemaMapper | Mapeando 401458 registros com 32 colunas
+2025-10-04 16:33:16 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:33:16 | INFO | SchemaMapper | ✓ Mapeamento concluído: 401458 registros, 32 colunas padrão
+2025-10-04 16:33:39 | INFO | SchemaMapper | Mapeando 404562 registros com 32 colunas
+2025-10-04 16:33:39 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:33:39 | INFO | SchemaMapper | ✓ Mapeamento concluído: 404562 registros, 32 colunas padrão
+2025-10-04 16:34:04 | INFO | SchemaMapper | Mapeando 407766 registros com 32 colunas
+2025-10-04 16:34:04 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:34:04 | INFO | SchemaMapper | ✓ Mapeamento concluído: 407766 registros, 32 colunas padrão
+2025-10-04 16:34:26 | INFO | SchemaMapper | Mapeando 411162 registros com 32 colunas
+2025-10-04 16:34:26 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:34:26 | INFO | SchemaMapper | ✓ Mapeamento concluído: 411162 registros, 32 colunas padrão
+2025-10-04 16:35:46 | INFO | SchemaMapper | Mapeando 401458 registros com 32 colunas
+2025-10-04 16:35:46 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:35:46 | INFO | SchemaMapper | ✓ Mapeamento concluído: 401458 registros, 32 colunas padrão
+2025-10-04 16:36:10 | INFO | SchemaMapper | Mapeando 404562 registros com 32 colunas
+2025-10-04 16:36:10 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:36:10 | INFO | SchemaMapper | ✓ Mapeamento concluído: 404562 registros, 32 colunas padrão
+2025-10-04 16:36:31 | INFO | SchemaMapper | Mapeando 407766 registros com 32 colunas
+2025-10-04 16:36:31 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:36:31 | INFO | SchemaMapper | ✓ Mapeamento concluído: 407766 registros, 32 colunas padrão
+2025-10-04 16:36:52 | INFO | SchemaMapper | Mapeando 411162 registros com 32 colunas
+2025-10-04 16:36:52 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:36:52 | INFO | SchemaMapper | ✓ Mapeamento concluído: 411162 registros, 32 colunas padrão
+2025-10-04 16:37:03 | INFO | SchemaMapper | Mapeando 500 registros com 33 colunas
+2025-10-04 16:37:03 | INFO | SchemaMapper | Colunas originais: [0, 1, 2, 3, 4]...
+2025-10-04 16:37:03 | WARNING | SchemaMapper | Coluna '0' não encontrada no mapeamento, mantendo nome original
+2025-10-04 16:39:07 | INFO | SchemaMapper | Mapeando 401458 registros com 32 colunas
+2025-10-04 16:39:07 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:39:07 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:39:07 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:39:08 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:39:08 | INFO | SchemaMapper | ✓ Mapeamento concluído: 401458 registros, 32 colunas padrão
+2025-10-04 16:39:32 | INFO | SchemaMapper | Mapeando 404562 registros com 32 colunas
+2025-10-04 16:39:32 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:39:32 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:39:32 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:39:32 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:39:32 | INFO | SchemaMapper | ✓ Mapeamento concluído: 404562 registros, 32 colunas padrão
+2025-10-04 16:39:55 | INFO | SchemaMapper | Mapeando 407766 registros com 32 colunas
+2025-10-04 16:39:55 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:39:55 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:39:55 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:39:55 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:39:56 | INFO | SchemaMapper | ✓ Mapeamento concluído: 407766 registros, 32 colunas padrão
+2025-10-04 16:40:17 | INFO | SchemaMapper | Mapeando 411162 registros com 32 colunas
+2025-10-04 16:40:17 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:40:17 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:17 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:17 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:17 | INFO | SchemaMapper | ✓ Mapeamento concluído: 411162 registros, 32 colunas padrão
+2025-10-04 16:40:27 | INFO | SchemaMapper | Mapeando 500 registros com 33 colunas
+2025-10-04 16:40:27 | INFO | SchemaMapper | Colunas originais: [0, 1, 2, 3, 4]...
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '0' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '1' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '2' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '3' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '4' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '5' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '6' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '7' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '8' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '9' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '10' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '11' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '12' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '13' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '14' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '15' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '16' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '17' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '18' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '19' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '20' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '21' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '22' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '23' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '24' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '25' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '26' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '27' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '28' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '29' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '30' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '31' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | WARNING | SchemaMapper | Coluna '32' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:40:27 | INFO | SchemaMapper | ✓ Mapeamento concluído: 500 registros, 32 colunas padrão
+2025-10-04 16:42:14 | INFO | SchemaMapper | Mapeando 401458 registros com 32 colunas
+2025-10-04 16:42:14 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:42:14 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:42:14 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:42:14 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:42:14 | INFO | SchemaMapper | ✓ Mapeamento concluído: 401458 registros, 32 colunas padrão
+2025-10-04 16:42:43 | INFO | SchemaMapper | Mapeando 404562 registros com 32 colunas
+2025-10-04 16:42:43 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:42:43 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:42:43 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:42:43 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:42:43 | INFO | SchemaMapper | ✓ Mapeamento concluído: 404562 registros, 32 colunas padrão
+2025-10-04 16:43:18 | INFO | SchemaMapper | Mapeando 407766 registros com 32 colunas
+2025-10-04 16:43:18 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:43:18 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:43:18 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:43:18 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:43:18 | INFO | SchemaMapper | ✓ Mapeamento concluído: 407766 registros, 32 colunas padrão
+2025-10-04 16:43:43 | INFO | SchemaMapper | Mapeando 411162 registros com 32 colunas
+2025-10-04 16:43:43 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 16:43:43 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:43:43 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:43:43 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:43:44 | INFO | SchemaMapper | ✓ Mapeamento concluído: 411162 registros, 32 colunas padrão
+2025-10-04 16:44:00 | INFO | SchemaMapper | Mapeando 500 registros com 33 colunas
+2025-10-04 16:44:00 | INFO | SchemaMapper | Colunas originais: [0, 1, 2, 3, 4]...
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '0' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '1' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '2' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '3' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '4' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '5' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '6' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '7' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '8' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '9' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '10' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '11' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '12' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '13' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '14' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '15' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '16' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '17' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '18' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '19' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '20' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '21' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '22' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '23' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '24' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '25' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '26' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '27' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '28' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '29' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '30' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '31' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | WARNING | SchemaMapper | Coluna '32' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 16:44:00 | INFO | SchemaMapper | ✓ Mapeamento concluído: 500 registros, 32 colunas padrão
+2025-10-04 17:20:16 | INFO | SchemaMapper | Mapeando 401458 registros com 32 colunas
+2025-10-04 17:20:16 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 17:20:16 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:20:16 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:20:16 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:20:16 | INFO | SchemaMapper | ✓ Mapeamento concluído: 401458 registros, 32 colunas padrão
+2025-10-04 17:20:58 | INFO | SchemaMapper | Mapeando 404562 registros com 32 colunas
+2025-10-04 17:20:58 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 17:20:58 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:20:58 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:20:58 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:20:58 | INFO | SchemaMapper | ✓ Mapeamento concluído: 404562 registros, 32 colunas padrão
+2025-10-04 17:21:41 | INFO | SchemaMapper | Mapeando 407766 registros com 32 colunas
+2025-10-04 17:21:41 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 17:21:41 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:21:41 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:21:41 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:21:41 | INFO | SchemaMapper | ✓ Mapeamento concluído: 407766 registros, 32 colunas padrão
+2025-10-04 17:22:08 | INFO | SchemaMapper | Mapeando 411162 registros com 32 colunas
+2025-10-04 17:22:08 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 17:22:08 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:22:08 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:22:08 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:22:09 | INFO | SchemaMapper | ✓ Mapeamento concluído: 411162 registros, 32 colunas padrão
+2025-10-04 17:22:21 | INFO | SchemaMapper | Mapeando 498 registros com 33 colunas
+2025-10-04 17:22:21 | INFO | SchemaMapper | Colunas originais: ['_id', 'Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte']...
+2025-10-04 17:22:21 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:22:21 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:22:21 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:22:21 | INFO | SchemaMapper | ✓ Mapeamento concluído: 498 registros, 32 colunas padrão
+2025-10-04 17:25:29 | INFO | SchemaMapper | Mapeando 401458 registros com 32 colunas
+2025-10-04 17:25:29 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 17:25:29 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:25:29 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:25:29 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:25:29 | INFO | SchemaMapper | ✓ Mapeamento concluído: 401458 registros, 32 colunas padrão
+2025-10-04 17:26:12 | INFO | SchemaMapper | Mapeando 404562 registros com 32 colunas
+2025-10-04 17:26:12 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 17:26:13 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:26:13 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:26:13 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:26:13 | INFO | SchemaMapper | ✓ Mapeamento concluído: 404562 registros, 32 colunas padrão
+2025-10-04 17:26:48 | INFO | SchemaMapper | Mapeando 407766 registros com 32 colunas
+2025-10-04 17:26:48 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 17:26:48 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:26:48 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:26:48 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:26:48 | INFO | SchemaMapper | ✓ Mapeamento concluído: 407766 registros, 32 colunas padrão
+2025-10-04 17:27:15 | INFO | SchemaMapper | Mapeando 411162 registros com 32 colunas
+2025-10-04 17:27:15 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 17:27:15 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:27:15 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:27:15 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:27:15 | INFO | SchemaMapper | ✓ Mapeamento concluído: 411162 registros, 32 colunas padrão
+2025-10-04 17:27:33 | INFO | SchemaMapper | Mapeando 498 registros com 33 colunas
+2025-10-04 17:27:33 | INFO | SchemaMapper | Colunas originais: ['_id', 'Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte']...
+2025-10-04 17:27:33 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:27:33 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:27:33 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:27:33 | INFO | SchemaMapper | ✓ Mapeamento concluído: 498 registros, 32 colunas padrão
+2025-10-04 17:36:19 | INFO | SchemaMapper | Mapeando 401458 registros com 32 colunas
+2025-10-04 17:36:19 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 17:36:19 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:36:19 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:36:19 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:36:19 | INFO | SchemaMapper | ✓ Mapeamento concluído: 401458 registros, 32 colunas padrão
+2025-10-04 17:37:00 | INFO | SchemaMapper | Mapeando 404562 registros com 32 colunas
+2025-10-04 17:37:00 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 17:37:00 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:37:00 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:37:00 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:37:00 | INFO | SchemaMapper | ✓ Mapeamento concluído: 404562 registros, 32 colunas padrão
+2025-10-04 17:39:48 | INFO | SchemaMapper | Mapeando 401458 registros com 32 colunas
+2025-10-04 17:39:48 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 17:39:48 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:39:48 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:39:48 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:39:48 | INFO | SchemaMapper | ✓ Mapeamento concluído: 401458 registros, 32 colunas padrão
+2025-10-04 17:40:21 | INFO | SchemaMapper | Mapeando 404562 registros com 32 colunas
+2025-10-04 17:40:21 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 17:40:21 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:40:21 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:40:21 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:40:21 | INFO | SchemaMapper | ✓ Mapeamento concluído: 404562 registros, 32 colunas padrão
+2025-10-04 17:40:56 | INFO | SchemaMapper | Mapeando 407766 registros com 32 colunas
+2025-10-04 17:40:56 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 17:40:57 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:40:57 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:40:57 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:40:57 | INFO | SchemaMapper | ✓ Mapeamento concluído: 407766 registros, 32 colunas padrão
+2025-10-04 17:41:20 | INFO | SchemaMapper | Mapeando 411162 registros com 32 colunas
+2025-10-04 17:41:20 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 17:41:20 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:41:20 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:41:20 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:41:21 | INFO | SchemaMapper | ✓ Mapeamento concluído: 411162 registros, 32 colunas padrão
+2025-10-04 17:41:32 | INFO | SchemaMapper | Mapeando 498 registros com 33 colunas
+2025-10-04 17:41:32 | INFO | SchemaMapper | Colunas originais: ['_id', 'Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte']...
+2025-10-04 17:41:32 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:41:32 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:41:32 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 17:41:32 | INFO | SchemaMapper | ✓ Mapeamento concluído: 498 registros, 32 colunas padrão
+2025-10-04 19:12:27 | INFO | SchemaMapper | Mapeando 2 registros com 6 colunas
+2025-10-04 19:12:27 | INFO | SchemaMapper | Colunas originais: ['Numero do Contribuinte', 'VALOR_COBRADO_DE_IPTU', 'logradouro', 'ano_do_exercício', 'coluna_nao_mapeada']...
+2025-10-04 19:12:27 | WARNING | SchemaMapper | Coluna 'coluna_nao_mapeada' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:27 | INFO | SchemaMapper | ✓ Mapeamento concluído: 2 registros, 32 colunas padrão
+2025-10-04 19:12:27 | WARNING | SchemaMapper | DataFrame vazio recebido
+2025-10-04 19:12:27 | INFO | SchemaMapper | Mapeando 2 registros com 32 colunas
+2025-10-04 19:12:27 | INFO | SchemaMapper | Colunas originais: ['numero_contribuinte', 'ano_exercicio', 'data_cadastramento', 'tipo_contribuinte', 'cpf_cnpj']...
+2025-10-04 19:12:27 | WARNING | SchemaMapper | Coluna 'numero_contribuinte' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:27 | WARNING | SchemaMapper | Coluna 'ano_exercicio' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:27 | WARNING | SchemaMapper | Coluna 'data_cadastramento' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:27 | WARNING | SchemaMapper | Coluna 'tipo_contribuinte' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:27 | WARNING | SchemaMapper | Coluna 'cpf_cnpj' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:27 | WARNING | SchemaMapper | Coluna 'valor_m2_terreno' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:27 | WARNING | SchemaMapper | Coluna 'valor_m2_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:27 | WARNING | SchemaMapper | Coluna 'ano_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:27 | WARNING | SchemaMapper | Coluna 'qtd_pavimentos' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:27 | WARNING | SchemaMapper | Coluna 'tipo_uso_imovel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:27 | WARNING | SchemaMapper | Coluna 'tipo_padrao_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:27 | WARNING | SchemaMapper | Coluna 'fator_obsolescencia' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:27 | WARNING | SchemaMapper | Coluna 'ano_mes_inicio_contribuicao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:27 | WARNING | SchemaMapper | Coluna 'valor_total_imovel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:27 | WARNING | SchemaMapper | Coluna 'regime_tributacao_iptu' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:27 | WARNING | SchemaMapper | Coluna 'regime_tributacao_trsd' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:27 | WARNING | SchemaMapper | Coluna 'tipo_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:27 | WARNING | SchemaMapper | Coluna 'tipo_empreendimento' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:27 | WARNING | SchemaMapper | Coluna 'tipo_estrutura' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:27 | INFO | SchemaMapper | ✓ Mapeamento concluído: 2 registros, 32 colunas padrão
+2025-10-04 19:12:48 | INFO | SchemaMapper | Mapeando 2 registros com 6 colunas
+2025-10-04 19:12:48 | INFO | SchemaMapper | Colunas originais: ['Numero do Contribuinte', 'VALOR_COBRADO_DE_IPTU', 'logradouro', 'ano_do_exercício', 'coluna_nao_mapeada']...
+2025-10-04 19:12:48 | WARNING | SchemaMapper | Coluna 'coluna_nao_mapeada' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:48 | INFO | SchemaMapper | ✓ Mapeamento concluído: 2 registros, 32 colunas padrão
+2025-10-04 19:12:48 | WARNING | SchemaMapper | DataFrame vazio recebido
+2025-10-04 19:12:48 | INFO | SchemaMapper | Mapeando 2 registros com 32 colunas
+2025-10-04 19:12:48 | INFO | SchemaMapper | Colunas originais: ['numero_contribuinte', 'ano_exercicio', 'data_cadastramento', 'tipo_contribuinte', 'cpf_cnpj']...
+2025-10-04 19:12:48 | WARNING | SchemaMapper | Coluna 'numero_contribuinte' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:48 | WARNING | SchemaMapper | Coluna 'ano_exercicio' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:48 | WARNING | SchemaMapper | Coluna 'data_cadastramento' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:48 | WARNING | SchemaMapper | Coluna 'tipo_contribuinte' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:48 | WARNING | SchemaMapper | Coluna 'cpf_cnpj' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:48 | WARNING | SchemaMapper | Coluna 'valor_m2_terreno' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:48 | WARNING | SchemaMapper | Coluna 'valor_m2_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:48 | WARNING | SchemaMapper | Coluna 'ano_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:48 | WARNING | SchemaMapper | Coluna 'qtd_pavimentos' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:48 | WARNING | SchemaMapper | Coluna 'tipo_uso_imovel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:48 | WARNING | SchemaMapper | Coluna 'tipo_padrao_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:48 | WARNING | SchemaMapper | Coluna 'fator_obsolescencia' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:48 | WARNING | SchemaMapper | Coluna 'ano_mes_inicio_contribuicao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:48 | WARNING | SchemaMapper | Coluna 'valor_total_imovel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:48 | WARNING | SchemaMapper | Coluna 'regime_tributacao_iptu' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:48 | WARNING | SchemaMapper | Coluna 'regime_tributacao_trsd' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:48 | WARNING | SchemaMapper | Coluna 'tipo_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:48 | WARNING | SchemaMapper | Coluna 'tipo_empreendimento' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:48 | WARNING | SchemaMapper | Coluna 'tipo_estrutura' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:12:48 | INFO | SchemaMapper | ✓ Mapeamento concluído: 2 registros, 32 colunas padrão
+2025-10-04 19:15:27 | INFO | SchemaMapper | Mapeando 2 registros com 6 colunas
+2025-10-04 19:15:27 | INFO | SchemaMapper | Colunas originais: ['Numero do Contribuinte', 'VALOR_COBRADO_DE_IPTU', 'logradouro', 'ano_do_exercício', 'coluna_nao_mapeada']...
+2025-10-04 19:15:27 | WARNING | SchemaMapper | Coluna 'coluna_nao_mapeada' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:27 | INFO | SchemaMapper | ✓ Mapeamento concluído: 2 registros, 32 colunas padrão
+2025-10-04 19:15:27 | WARNING | SchemaMapper | DataFrame vazio recebido
+2025-10-04 19:15:27 | INFO | SchemaMapper | Mapeando 2 registros com 32 colunas
+2025-10-04 19:15:27 | INFO | SchemaMapper | Colunas originais: ['numero_contribuinte', 'ano_exercicio', 'data_cadastramento', 'tipo_contribuinte', 'cpf_cnpj']...
+2025-10-04 19:15:27 | WARNING | SchemaMapper | Coluna 'numero_contribuinte' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:27 | WARNING | SchemaMapper | Coluna 'ano_exercicio' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:27 | WARNING | SchemaMapper | Coluna 'data_cadastramento' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:27 | WARNING | SchemaMapper | Coluna 'tipo_contribuinte' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:27 | WARNING | SchemaMapper | Coluna 'cpf_cnpj' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:27 | WARNING | SchemaMapper | Coluna 'valor_m2_terreno' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:27 | WARNING | SchemaMapper | Coluna 'valor_m2_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:27 | WARNING | SchemaMapper | Coluna 'ano_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:27 | WARNING | SchemaMapper | Coluna 'qtd_pavimentos' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:27 | WARNING | SchemaMapper | Coluna 'tipo_uso_imovel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:27 | WARNING | SchemaMapper | Coluna 'tipo_padrao_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:27 | WARNING | SchemaMapper | Coluna 'fator_obsolescencia' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:27 | WARNING | SchemaMapper | Coluna 'ano_mes_inicio_contribuicao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:27 | WARNING | SchemaMapper | Coluna 'valor_total_imovel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:27 | WARNING | SchemaMapper | Coluna 'regime_tributacao_iptu' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:27 | WARNING | SchemaMapper | Coluna 'regime_tributacao_trsd' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:27 | WARNING | SchemaMapper | Coluna 'tipo_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:27 | WARNING | SchemaMapper | Coluna 'tipo_empreendimento' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:27 | WARNING | SchemaMapper | Coluna 'tipo_estrutura' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:27 | INFO | SchemaMapper | ✓ Mapeamento concluído: 2 registros, 32 colunas padrão
+2025-10-04 19:15:42 | INFO | SchemaMapper | Mapeando 2 registros com 6 colunas
+2025-10-04 19:15:42 | INFO | SchemaMapper | Colunas originais: ['Numero do Contribuinte', 'VALOR_COBRADO_DE_IPTU', 'logradouro', 'ano_do_exercício', 'coluna_nao_mapeada']...
+2025-10-04 19:15:42 | WARNING | SchemaMapper | Coluna 'coluna_nao_mapeada' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:42 | INFO | SchemaMapper | ✓ Mapeamento concluído: 2 registros, 32 colunas padrão
+2025-10-04 19:15:42 | WARNING | SchemaMapper | DataFrame vazio recebido
+2025-10-04 19:15:42 | INFO | SchemaMapper | Mapeando 2 registros com 32 colunas
+2025-10-04 19:15:42 | INFO | SchemaMapper | Colunas originais: ['numero_contribuinte', 'ano_exercicio', 'data_cadastramento', 'tipo_contribuinte', 'cpf_cnpj']...
+2025-10-04 19:15:42 | WARNING | SchemaMapper | Coluna 'numero_contribuinte' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:42 | WARNING | SchemaMapper | Coluna 'ano_exercicio' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:42 | WARNING | SchemaMapper | Coluna 'data_cadastramento' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:42 | WARNING | SchemaMapper | Coluna 'tipo_contribuinte' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:42 | WARNING | SchemaMapper | Coluna 'cpf_cnpj' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:42 | WARNING | SchemaMapper | Coluna 'valor_m2_terreno' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:42 | WARNING | SchemaMapper | Coluna 'valor_m2_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:42 | WARNING | SchemaMapper | Coluna 'ano_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:42 | WARNING | SchemaMapper | Coluna 'qtd_pavimentos' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:42 | WARNING | SchemaMapper | Coluna 'tipo_uso_imovel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:42 | WARNING | SchemaMapper | Coluna 'tipo_padrao_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:42 | WARNING | SchemaMapper | Coluna 'fator_obsolescencia' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:42 | WARNING | SchemaMapper | Coluna 'ano_mes_inicio_contribuicao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:42 | WARNING | SchemaMapper | Coluna 'valor_total_imovel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:42 | WARNING | SchemaMapper | Coluna 'regime_tributacao_iptu' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:42 | WARNING | SchemaMapper | Coluna 'regime_tributacao_trsd' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:42 | WARNING | SchemaMapper | Coluna 'tipo_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:42 | WARNING | SchemaMapper | Coluna 'tipo_empreendimento' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:42 | WARNING | SchemaMapper | Coluna 'tipo_estrutura' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:15:42 | INFO | SchemaMapper | ✓ Mapeamento concluído: 2 registros, 32 colunas padrão
+2025-10-04 19:19:33 | INFO | SchemaMapper | Mapeando 2 registros com 6 colunas
+2025-10-04 19:19:33 | INFO | SchemaMapper | Colunas originais: ['Numero do Contribuinte', 'VALOR_COBRADO_DE_IPTU', 'logradouro', 'ano_do_exercício', 'coluna_nao_mapeada']...
+2025-10-04 19:19:33 | WARNING | SchemaMapper | Coluna 'coluna_nao_mapeada' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:33 | INFO | SchemaMapper | ✓ Mapeamento concluído: 2 registros, 32 colunas padrão
+2025-10-04 19:19:33 | WARNING | SchemaMapper | DataFrame vazio recebido
+2025-10-04 19:19:33 | INFO | SchemaMapper | Mapeando 2 registros com 32 colunas
+2025-10-04 19:19:33 | INFO | SchemaMapper | Colunas originais: ['numero_contribuinte', 'ano_exercicio', 'data_cadastramento', 'tipo_contribuinte', 'cpf_cnpj']...
+2025-10-04 19:19:33 | WARNING | SchemaMapper | Coluna 'numero_contribuinte' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:33 | WARNING | SchemaMapper | Coluna 'ano_exercicio' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:33 | WARNING | SchemaMapper | Coluna 'data_cadastramento' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:33 | WARNING | SchemaMapper | Coluna 'tipo_contribuinte' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:33 | WARNING | SchemaMapper | Coluna 'cpf_cnpj' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:33 | WARNING | SchemaMapper | Coluna 'valor_m2_terreno' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:33 | WARNING | SchemaMapper | Coluna 'valor_m2_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:33 | WARNING | SchemaMapper | Coluna 'ano_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:33 | WARNING | SchemaMapper | Coluna 'qtd_pavimentos' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:33 | WARNING | SchemaMapper | Coluna 'tipo_uso_imovel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:33 | WARNING | SchemaMapper | Coluna 'tipo_padrao_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:33 | WARNING | SchemaMapper | Coluna 'fator_obsolescencia' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:33 | WARNING | SchemaMapper | Coluna 'ano_mes_inicio_contribuicao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:33 | WARNING | SchemaMapper | Coluna 'valor_total_imovel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:33 | WARNING | SchemaMapper | Coluna 'regime_tributacao_iptu' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:33 | WARNING | SchemaMapper | Coluna 'regime_tributacao_trsd' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:33 | WARNING | SchemaMapper | Coluna 'tipo_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:33 | WARNING | SchemaMapper | Coluna 'tipo_empreendimento' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:33 | WARNING | SchemaMapper | Coluna 'tipo_estrutura' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:33 | INFO | SchemaMapper | ✓ Mapeamento concluído: 2 registros, 32 colunas padrão
+2025-10-04 19:19:44 | INFO | SchemaMapper | Mapeando 2 registros com 6 colunas
+2025-10-04 19:19:44 | INFO | SchemaMapper | Colunas originais: ['Numero do Contribuinte', 'VALOR_COBRADO_DE_IPTU', 'logradouro', 'ano_do_exercício', 'coluna_nao_mapeada']...
+2025-10-04 19:19:44 | WARNING | SchemaMapper | Coluna 'coluna_nao_mapeada' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:44 | INFO | SchemaMapper | ✓ Mapeamento concluído: 2 registros, 32 colunas padrão
+2025-10-04 19:19:44 | WARNING | SchemaMapper | DataFrame vazio recebido
+2025-10-04 19:19:44 | INFO | SchemaMapper | Mapeando 2 registros com 32 colunas
+2025-10-04 19:19:44 | INFO | SchemaMapper | Colunas originais: ['numero_contribuinte', 'ano_exercicio', 'data_cadastramento', 'tipo_contribuinte', 'cpf_cnpj']...
+2025-10-04 19:19:44 | WARNING | SchemaMapper | Coluna 'numero_contribuinte' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:44 | WARNING | SchemaMapper | Coluna 'ano_exercicio' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:44 | WARNING | SchemaMapper | Coluna 'data_cadastramento' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:44 | WARNING | SchemaMapper | Coluna 'tipo_contribuinte' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:44 | WARNING | SchemaMapper | Coluna 'cpf_cnpj' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:44 | WARNING | SchemaMapper | Coluna 'valor_m2_terreno' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:44 | WARNING | SchemaMapper | Coluna 'valor_m2_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:44 | WARNING | SchemaMapper | Coluna 'ano_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:44 | WARNING | SchemaMapper | Coluna 'qtd_pavimentos' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:44 | WARNING | SchemaMapper | Coluna 'tipo_uso_imovel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:44 | WARNING | SchemaMapper | Coluna 'tipo_padrao_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:44 | WARNING | SchemaMapper | Coluna 'fator_obsolescencia' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:44 | WARNING | SchemaMapper | Coluna 'ano_mes_inicio_contribuicao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:44 | WARNING | SchemaMapper | Coluna 'valor_total_imovel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:44 | WARNING | SchemaMapper | Coluna 'regime_tributacao_iptu' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:44 | WARNING | SchemaMapper | Coluna 'regime_tributacao_trsd' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:44 | WARNING | SchemaMapper | Coluna 'tipo_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:44 | WARNING | SchemaMapper | Coluna 'tipo_empreendimento' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:44 | WARNING | SchemaMapper | Coluna 'tipo_estrutura' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:19:44 | INFO | SchemaMapper | ✓ Mapeamento concluído: 2 registros, 32 colunas padrão
+2025-10-04 19:22:04 | INFO | SchemaMapper | Mapeando 2 registros com 6 colunas
+2025-10-04 19:22:04 | INFO | SchemaMapper | Colunas originais: ['Numero do Contribuinte', 'VALOR_COBRADO_DE_IPTU', 'logradouro', 'ano_do_exercício', 'coluna_nao_mapeada']...
+2025-10-04 19:22:04 | WARNING | SchemaMapper | Coluna 'coluna_nao_mapeada' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:04 | INFO | SchemaMapper | ✓ Mapeamento concluído: 2 registros, 32 colunas padrão
+2025-10-04 19:22:04 | WARNING | SchemaMapper | DataFrame vazio recebido
+2025-10-04 19:22:04 | INFO | SchemaMapper | Mapeando 2 registros com 32 colunas
+2025-10-04 19:22:04 | INFO | SchemaMapper | Colunas originais: ['numero_contribuinte', 'ano_exercicio', 'data_cadastramento', 'tipo_contribuinte', 'cpf_cnpj']...
+2025-10-04 19:22:04 | WARNING | SchemaMapper | Coluna 'numero_contribuinte' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:04 | WARNING | SchemaMapper | Coluna 'ano_exercicio' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:04 | WARNING | SchemaMapper | Coluna 'data_cadastramento' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:04 | WARNING | SchemaMapper | Coluna 'tipo_contribuinte' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:04 | WARNING | SchemaMapper | Coluna 'cpf_cnpj' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:04 | WARNING | SchemaMapper | Coluna 'valor_m2_terreno' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:04 | WARNING | SchemaMapper | Coluna 'valor_m2_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:04 | WARNING | SchemaMapper | Coluna 'ano_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:04 | WARNING | SchemaMapper | Coluna 'qtd_pavimentos' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:04 | WARNING | SchemaMapper | Coluna 'tipo_uso_imovel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:04 | WARNING | SchemaMapper | Coluna 'tipo_padrao_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:04 | WARNING | SchemaMapper | Coluna 'fator_obsolescencia' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:04 | WARNING | SchemaMapper | Coluna 'ano_mes_inicio_contribuicao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:04 | WARNING | SchemaMapper | Coluna 'valor_total_imovel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:04 | WARNING | SchemaMapper | Coluna 'regime_tributacao_iptu' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:04 | WARNING | SchemaMapper | Coluna 'regime_tributacao_trsd' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:04 | WARNING | SchemaMapper | Coluna 'tipo_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:04 | WARNING | SchemaMapper | Coluna 'tipo_empreendimento' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:04 | WARNING | SchemaMapper | Coluna 'tipo_estrutura' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:04 | INFO | SchemaMapper | ✓ Mapeamento concluído: 2 registros, 32 colunas padrão
+2025-10-04 19:22:09 | INFO | SchemaMapper | Mapeando 2 registros com 6 colunas
+2025-10-04 19:22:09 | INFO | SchemaMapper | Colunas originais: ['Numero do Contribuinte', 'VALOR_COBRADO_DE_IPTU', 'logradouro', 'ano_do_exercício', 'coluna_nao_mapeada']...
+2025-10-04 19:22:09 | WARNING | SchemaMapper | Coluna 'coluna_nao_mapeada' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:09 | INFO | SchemaMapper | ✓ Mapeamento concluído: 2 registros, 32 colunas padrão
+2025-10-04 19:22:09 | WARNING | SchemaMapper | DataFrame vazio recebido
+2025-10-04 19:22:09 | INFO | SchemaMapper | Mapeando 2 registros com 32 colunas
+2025-10-04 19:22:09 | INFO | SchemaMapper | Colunas originais: ['numero_contribuinte', 'ano_exercicio', 'data_cadastramento', 'tipo_contribuinte', 'cpf_cnpj']...
+2025-10-04 19:22:09 | WARNING | SchemaMapper | Coluna 'numero_contribuinte' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:09 | WARNING | SchemaMapper | Coluna 'ano_exercicio' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:09 | WARNING | SchemaMapper | Coluna 'data_cadastramento' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:09 | WARNING | SchemaMapper | Coluna 'tipo_contribuinte' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:09 | WARNING | SchemaMapper | Coluna 'cpf_cnpj' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:09 | WARNING | SchemaMapper | Coluna 'valor_m2_terreno' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:09 | WARNING | SchemaMapper | Coluna 'valor_m2_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:09 | WARNING | SchemaMapper | Coluna 'ano_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:09 | WARNING | SchemaMapper | Coluna 'qtd_pavimentos' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:09 | WARNING | SchemaMapper | Coluna 'tipo_uso_imovel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:09 | WARNING | SchemaMapper | Coluna 'tipo_padrao_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:09 | WARNING | SchemaMapper | Coluna 'fator_obsolescencia' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:09 | WARNING | SchemaMapper | Coluna 'ano_mes_inicio_contribuicao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:09 | WARNING | SchemaMapper | Coluna 'valor_total_imovel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:09 | WARNING | SchemaMapper | Coluna 'regime_tributacao_iptu' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:09 | WARNING | SchemaMapper | Coluna 'regime_tributacao_trsd' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:09 | WARNING | SchemaMapper | Coluna 'tipo_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:09 | WARNING | SchemaMapper | Coluna 'tipo_empreendimento' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:09 | WARNING | SchemaMapper | Coluna 'tipo_estrutura' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:22:09 | INFO | SchemaMapper | ✓ Mapeamento concluído: 2 registros, 32 colunas padrão
+2025-10-04 19:24:38 | INFO | SchemaMapper | Mapeando 2 registros com 6 colunas
+2025-10-04 19:24:38 | INFO | SchemaMapper | Colunas originais: ['Numero do Contribuinte', 'VALOR_COBRADO_DE_IPTU', 'logradouro', 'ano_do_exercício', 'coluna_nao_mapeada']...
+2025-10-04 19:24:38 | WARNING | SchemaMapper | Coluna 'coluna_nao_mapeada' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:24:38 | INFO | SchemaMapper | ✓ Mapeamento concluído: 2 registros, 32 colunas padrão
+2025-10-04 19:24:38 | WARNING | SchemaMapper | DataFrame vazio recebido
+2025-10-04 19:24:38 | INFO | SchemaMapper | Mapeando 2 registros com 32 colunas
+2025-10-04 19:24:38 | INFO | SchemaMapper | Colunas originais: ['numero_contribuinte', 'ano_exercicio', 'data_cadastramento', 'tipo_contribuinte', 'cpf_cnpj']...
+2025-10-04 19:24:38 | WARNING | SchemaMapper | Coluna 'numero_contribuinte' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:24:38 | WARNING | SchemaMapper | Coluna 'ano_exercicio' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:24:38 | WARNING | SchemaMapper | Coluna 'data_cadastramento' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:24:38 | WARNING | SchemaMapper | Coluna 'tipo_contribuinte' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:24:38 | WARNING | SchemaMapper | Coluna 'cpf_cnpj' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:24:38 | WARNING | SchemaMapper | Coluna 'valor_m2_terreno' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:24:38 | WARNING | SchemaMapper | Coluna 'valor_m2_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:24:38 | WARNING | SchemaMapper | Coluna 'ano_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:24:38 | WARNING | SchemaMapper | Coluna 'qtd_pavimentos' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:24:38 | WARNING | SchemaMapper | Coluna 'tipo_uso_imovel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:24:38 | WARNING | SchemaMapper | Coluna 'tipo_padrao_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:24:38 | WARNING | SchemaMapper | Coluna 'fator_obsolescencia' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:24:38 | WARNING | SchemaMapper | Coluna 'ano_mes_inicio_contribuicao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:24:38 | WARNING | SchemaMapper | Coluna 'valor_total_imovel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:24:38 | WARNING | SchemaMapper | Coluna 'regime_tributacao_iptu' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:24:38 | WARNING | SchemaMapper | Coluna 'regime_tributacao_trsd' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:24:38 | WARNING | SchemaMapper | Coluna 'tipo_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:24:38 | WARNING | SchemaMapper | Coluna 'tipo_empreendimento' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:24:38 | WARNING | SchemaMapper | Coluna 'tipo_estrutura' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:24:38 | INFO | SchemaMapper | ✓ Mapeamento concluído: 2 registros, 32 colunas padrão
+2025-10-04 19:27:19 | INFO | SchemaMapper | Mapeando 2 registros com 6 colunas
+2025-10-04 19:27:19 | INFO | SchemaMapper | Colunas originais: ['Numero do Contribuinte', 'VALOR_COBRADO_DE_IPTU', 'logradouro', 'ano_do_exercício', 'coluna_nao_mapeada']...
+2025-10-04 19:27:19 | WARNING | SchemaMapper | Coluna 'coluna_nao_mapeada' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:27:19 | INFO | SchemaMapper | ✓ Mapeamento concluído: 2 registros, 32 colunas padrão
+2025-10-04 19:27:19 | WARNING | SchemaMapper | DataFrame vazio recebido
+2025-10-04 19:27:19 | INFO | SchemaMapper | Mapeando 2 registros com 32 colunas
+2025-10-04 19:27:19 | INFO | SchemaMapper | Colunas originais: ['numero_contribuinte', 'ano_exercicio', 'data_cadastramento', 'tipo_contribuinte', 'cpf_cnpj']...
+2025-10-04 19:27:19 | WARNING | SchemaMapper | Coluna 'numero_contribuinte' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:27:19 | WARNING | SchemaMapper | Coluna 'ano_exercicio' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:27:19 | WARNING | SchemaMapper | Coluna 'data_cadastramento' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:27:19 | WARNING | SchemaMapper | Coluna 'tipo_contribuinte' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:27:19 | WARNING | SchemaMapper | Coluna 'cpf_cnpj' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:27:19 | WARNING | SchemaMapper | Coluna 'valor_m2_terreno' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:27:19 | WARNING | SchemaMapper | Coluna 'valor_m2_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:27:19 | WARNING | SchemaMapper | Coluna 'ano_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:27:19 | WARNING | SchemaMapper | Coluna 'qtd_pavimentos' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:27:19 | WARNING | SchemaMapper | Coluna 'tipo_uso_imovel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:27:19 | WARNING | SchemaMapper | Coluna 'tipo_padrao_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:27:19 | WARNING | SchemaMapper | Coluna 'fator_obsolescencia' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:27:19 | WARNING | SchemaMapper | Coluna 'ano_mes_inicio_contribuicao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:27:19 | WARNING | SchemaMapper | Coluna 'valor_total_imovel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:27:19 | WARNING | SchemaMapper | Coluna 'regime_tributacao_iptu' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:27:19 | WARNING | SchemaMapper | Coluna 'regime_tributacao_trsd' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:27:19 | WARNING | SchemaMapper | Coluna 'tipo_construcao' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:27:19 | WARNING | SchemaMapper | Coluna 'tipo_empreendimento' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:27:19 | WARNING | SchemaMapper | Coluna 'tipo_estrutura' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 19:27:19 | INFO | SchemaMapper | ✓ Mapeamento concluído: 2 registros, 32 colunas padrão
+2025-10-04 20:27:47 | INFO | SchemaMapper | Mapeando 401458 registros com 32 colunas
+2025-10-04 20:27:47 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 20:27:48 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 20:27:48 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 20:27:48 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 20:27:48 | INFO | SchemaMapper | ✓ Mapeamento concluído: 401458 registros, 32 colunas padrão
+2025-10-04 20:28:25 | INFO | SchemaMapper | Mapeando 404562 registros com 32 colunas
+2025-10-04 20:28:25 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 20:28:25 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 20:28:25 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 20:28:25 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 20:28:25 | INFO | SchemaMapper | ✓ Mapeamento concluído: 404562 registros, 32 colunas padrão
+2025-10-04 20:28:58 | INFO | SchemaMapper | Mapeando 407766 registros com 32 colunas
+2025-10-04 20:28:58 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 20:28:58 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 20:28:58 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 20:28:58 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 20:28:58 | INFO | SchemaMapper | ✓ Mapeamento concluído: 407766 registros, 32 colunas padrão
+2025-10-04 20:29:36 | INFO | SchemaMapper | Mapeando 411162 registros com 32 colunas
+2025-10-04 20:29:36 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 20:29:36 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 20:29:36 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 20:29:36 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 20:29:36 | INFO | SchemaMapper | ✓ Mapeamento concluído: 411162 registros, 32 colunas padrão
+2025-10-04 20:29:55 | INFO | SchemaMapper | Mapeando 498 registros com 33 colunas
+2025-10-04 20:29:55 | INFO | SchemaMapper | Colunas originais: ['_id', 'Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte']...
+2025-10-04 20:29:55 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 20:29:55 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 20:29:55 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 20:29:55 | INFO | SchemaMapper | ✓ Mapeamento concluído: 498 registros, 32 colunas padrão
+2025-10-04 21:09:02 | INFO | SchemaMapper | Mapeando 401458 registros com 32 colunas
+2025-10-04 21:09:02 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 21:09:02 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 21:09:02 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 21:09:02 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 21:09:02 | INFO | SchemaMapper | ✓ Mapeamento concluído: 401458 registros, 32 colunas padrão
+2025-10-04 21:09:26 | INFO | SchemaMapper | Mapeando 404562 registros com 32 colunas
+2025-10-04 21:09:26 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 21:09:26 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 21:09:26 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 21:09:26 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 21:09:26 | INFO | SchemaMapper | ✓ Mapeamento concluído: 404562 registros, 32 colunas padrão
+2025-10-04 21:09:51 | INFO | SchemaMapper | Mapeando 407766 registros com 32 colunas
+2025-10-04 21:09:51 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 21:09:51 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 21:09:51 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 21:09:51 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 21:09:51 | INFO | SchemaMapper | ✓ Mapeamento concluído: 407766 registros, 32 colunas padrão
+2025-10-04 21:10:13 | INFO | SchemaMapper | Mapeando 411162 registros com 32 colunas
+2025-10-04 21:10:13 | INFO | SchemaMapper | Colunas originais: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']...
+2025-10-04 21:10:13 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 21:10:13 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 21:10:13 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 21:10:13 | INFO | SchemaMapper | ✓ Mapeamento concluído: 411162 registros, 32 colunas padrão
+2025-10-04 21:10:22 | INFO | SchemaMapper | Mapeando 498 registros com 33 colunas
+2025-10-04 21:10:22 | INFO | SchemaMapper | Colunas originais: ['_id', 'Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte']...
+2025-10-04 21:10:23 | WARNING | SchemaMapper | Coluna 'tipo de uso do imóvel' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 21:10:23 | WARNING | SchemaMapper | Coluna 'valor total do imóvel estimado' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 21:10:23 | WARNING | SchemaMapper | Coluna 'Código Logradouro' não encontrada no mapeamento, mantendo nome normalizado
+2025-10-04 21:10:23 | INFO | SchemaMapper | ✓ Mapeamento concluído: 498 registros, 32 colunas padrão

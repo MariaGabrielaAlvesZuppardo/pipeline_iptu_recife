@@ -1,0 +1,11 @@
+# Core Data Analysis
+pandas
+pyarrow
+fastparquet
+
+# Cloud Storage and APIs
+boto3
+requests
+
+# Environment Variables
+python-dotenv

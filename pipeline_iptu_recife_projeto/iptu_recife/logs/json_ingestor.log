@@ -1,0 +1,49 @@
+2025-10-04 16:34:36 | INFO | json_ingestor | Lendo arquivo iptu_2024.json do ZIP...
+2025-10-04 16:34:36 | INFO | json_ingestor | Arquivo encontrado: iptu_2024_json.json
+2025-10-04 16:34:36 | INFO | json_ingestor | Dados encontrados na chave 'records'
+2025-10-04 16:34:36 | INFO | json_ingestor | ✓ JSON carregado: 500 registros, 33 colunas
+2025-10-04 16:37:03 | INFO | json_ingestor | Lendo arquivo iptu_2024.json do ZIP...
+2025-10-04 16:37:03 | INFO | json_ingestor | Arquivo encontrado: iptu_2024_json.json
+2025-10-04 16:37:03 | INFO | json_ingestor | Dados encontrados na chave 'records'
+2025-10-04 16:37:03 | INFO | json_ingestor | ✓ JSON carregado: 500 registros, 33 colunas
+2025-10-04 16:40:27 | INFO | json_ingestor | Lendo arquivo iptu_2024.json do ZIP...
+2025-10-04 16:40:27 | INFO | json_ingestor | Arquivo encontrado: iptu_2024_json.json
+2025-10-04 16:40:27 | INFO | json_ingestor | Dados encontrados na chave 'records'
+2025-10-04 16:40:27 | INFO | json_ingestor | ✓ JSON carregado: 500 registros, 33 colunas
+2025-10-04 16:44:00 | INFO | json_ingestor | Lendo arquivo iptu_2024.json do ZIP...
+2025-10-04 16:44:00 | INFO | json_ingestor | Arquivo encontrado: iptu_2024_json.json
+2025-10-04 16:44:00 | INFO | json_ingestor | Dados encontrados na chave 'records'
+2025-10-04 16:44:00 | INFO | json_ingestor | ✓ JSON carregado: 500 registros, 33 colunas
+2025-10-04 17:22:20 | INFO | json_ingestor | Lendo arquivo iptu_2024.json do ZIP...
+2025-10-04 17:22:20 | INFO | json_ingestor | Arquivo encontrado: iptu_2024_json.json
+2025-10-04 17:22:20 | INFO | json_ingestor | Estrutura detectada: fields + records (formato API)
+2025-10-04 17:22:20 | INFO | json_ingestor | ✓ DataFrame criado com colunas nomeadas de 'fields'
+2025-10-04 17:22:20 | INFO | json_ingestor | ✓ JSON carregado: 500 registros, 33 colunas
+2025-10-04 17:27:33 | INFO | json_ingestor | Lendo arquivo iptu_2024.json do ZIP...
+2025-10-04 17:27:33 | INFO | json_ingestor | Arquivo encontrado: iptu_2024_json.json
+2025-10-04 17:27:33 | INFO | json_ingestor | Estrutura detectada: fields + records (formato API)
+2025-10-04 17:27:33 | INFO | json_ingestor | ✓ DataFrame criado com colunas nomeadas de 'fields'
+2025-10-04 17:27:33 | INFO | json_ingestor | ✓ JSON carregado: 500 registros, 33 colunas
+2025-10-04 17:41:32 | INFO | json_ingestor | Lendo arquivo iptu_2024.json do ZIP...
+2025-10-04 17:41:32 | INFO | json_ingestor | Arquivo encontrado: iptu_2024_json.json
+2025-10-04 17:41:32 | INFO | json_ingestor | Estrutura detectada: fields + records (formato API)
+2025-10-04 17:41:32 | INFO | json_ingestor | ✓ DataFrame criado com colunas nomeadas de 'fields'
+2025-10-04 17:41:32 | INFO | json_ingestor | ✓ JSON carregado: 500 registros, 33 colunas
+2025-10-04 19:15:27 | INFO | json_ingestor | Estrutura detectada: fields + records (formato API)
+2025-10-04 19:15:27 | INFO | json_ingestor | ✓ DataFrame criado com colunas nomeadas de 'fields'
+2025-10-04 19:15:27 | INFO | json_ingestor | Dados encontrados na chave 'data'
+2025-10-04 19:15:42 | INFO | json_ingestor | Estrutura detectada: fields + records (formato API)
+2025-10-04 19:15:42 | INFO | json_ingestor | ✓ DataFrame criado com colunas nomeadas de 'fields'
+2025-10-04 19:15:42 | INFO | json_ingestor | Dados encontrados na chave 'data'
+2025-10-04 19:19:33 | INFO | json_ingestor | Estrutura detectada: fields + records (formato API)
+2025-10-04 19:19:33 | INFO | json_ingestor | ✓ DataFrame criado com colunas nomeadas de 'fields'
+2025-10-04 19:19:33 | INFO | json_ingestor | Dados encontrados na chave 'data'
+2025-10-04 19:19:44 | INFO | json_ingestor | Estrutura detectada: fields + records (formato API)
+2025-10-04 19:19:44 | INFO | json_ingestor | ✓ DataFrame criado com colunas nomeadas de 'fields'
+2025-10-04 19:19:44 | INFO | json_ingestor | Dados encontrados na chave 'data'
+2025-10-04 19:22:04 | INFO | json_ingestor | Estrutura detectada: fields + records (formato API)
+2025-10-04 19:22:04 | INFO | json_ingestor | ✓ DataFrame criado com colunas nomeadas de 'fields'
+2025-10-04 19:22:04 | INFO | json_ingestor | Dados encontrados na chave 'data'
+2025-10-04 19:22:09 | INFO | json_ingestor | Estrutura detectada: fields + records (formato API)
+2025-10-04 19:22:09 | INFO | json_ingestor | ✓ DataFrame criado com colunas nomeadas de 'fields'
+2025-10-04 19:22:09 | INFO | json_ingestor | Dados encontrados na chave 'data'
