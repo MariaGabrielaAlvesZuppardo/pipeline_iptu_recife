@@ -1,0 +1,98 @@
+2025-10-04 15:49:33 | WARNING | CSVIngestor | Recebido bytes em vez de BytesIO, convertendo...
+2025-10-04 15:49:35 | INFO | CSVIngestor | Header: ['Número do contribuinte;ano do exercício;data do cadastramento;tipo de contribuinte;CPF/CNPJ mascarado do contribuinte;logradouro;numero;complemento;bairro;cidade;estado;fração ideal;AREA TERRENO;AREA CONSTRUIDA;área ocupada;valor do m2 do terreno;valor do m2 de construção;ano da construção corrigido;quantidade de pavimentos;tipo de uso do imóvel;tipo de padrão da construção;fator de obsolescência;ano e mês de início da contribuição;valor total do imóvel estimado;valor cobrado de IPTU;CEP;Regime de Tributação do iptu;Regime de Tributação da trsd;Tipo de Construção;Tipo de Empreendimento;Tipo de Estrutura;Código Logradouro'] (1 colunas)
+2025-10-04 15:49:36 | INFO | CSVIngestor | Processado: 0 válidos, 403915 inválidos
+2025-10-04 15:50:02 | WARNING | CSVIngestor | Recebido bytes em vez de BytesIO, convertendo...
+2025-10-04 15:50:06 | INFO | CSVIngestor | Header: ['Número do contribuinte;ano do exercício;data do cadastramento;tipo de contribuinte;CPF/CNPJ mascarado do contribuinte;logradouro;numero;complemento;bairro;cidade;estado;fração ideal;AREA TERRENO;AREA CONSTRUIDA;área ocupada;valor do m2 do terreno;valor do m2 de construção;ano da construção corrigido;quantidade de pavimentos;tipo de uso do imóvel;tipo de padrão da construção;fator de obsolescência;ano e mês de início da contribuição;valor total do imóvel estimado;valor cobrado de IPTU;CEP;Regime de Tributação do iptu;Regime de Tributação da trsd;Tipo de Construção;Tipo de Empreendimento;Tipo de Estrutura;Código Logradouro'] (1 colunas)
+2025-10-04 15:50:07 | INFO | CSVIngestor | Processado: 0 válidos, 407245 inválidos
+2025-10-04 15:50:31 | WARNING | CSVIngestor | Recebido bytes em vez de BytesIO, convertendo...
+2025-10-04 15:50:37 | INFO | CSVIngestor | Header: ['Número do contribuinte;ano do exercício;data do cadastramento;tipo de contribuinte;CPF/CNPJ mascarado do contribuinte;logradouro;numero;complemento;bairro;cidade;estado;fração ideal;AREA TERRENO;AREA CONSTRUIDA;área ocupada;valor do m2 do terreno;valor do m2 de construção;ano da construção corrigido;quantidade de pavimentos;tipo de uso do imóvel;tipo de padrão da construção;fator de obsolescência;ano e mês de início da contribuição;valor total do imóvel estimado;valor cobrado de IPTU;CEP;Regime de Tributação do iptu;Regime de Tributação da trsd;Tipo de Construção;Tipo de Empreendimento;Tipo de Estrutura;Código Logradouro'] (1 colunas)
+2025-10-04 15:50:37 | INFO | CSVIngestor | Processado: 0 válidos, 411090 inválidos
+2025-10-04 15:50:56 | WARNING | CSVIngestor | Recebido bytes em vez de BytesIO, convertendo...
+2025-10-04 15:51:01 | INFO | CSVIngestor | Header: ['Número do contribuinte;ano do exercício;data do cadastramento;tipo de contribuinte;CPF/CNPJ mascarado do contribuinte;logradouro;numero;complemento;bairro;cidade;estado;fração ideal;AREA TERRENO;AREA CONSTRUIDA;área ocupada;valor do m2 do terreno;valor do m2 de construção;ano da construção corrigido;quantidade de pavimentos;tipo de uso do imóvel;tipo de padrão da construção;fator de obsolescência;ano e mês de início da contribuição;valor total do imóvel estimado;valor cobrado de IPTU;CEP;Regime de Tributação do iptu;Regime de Tributação da trsd;Tipo de Construção;Tipo de Empreendimento;Tipo de Estrutura;Código Logradouro'] (1 colunas)
+2025-10-04 15:51:02 | INFO | CSVIngestor | Processado: 0 válidos, 415029 inválidos
+2025-10-04 15:58:21 | INFO | CSVIngestor | Header: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']... (32 colunas totais)
+2025-10-04 15:58:21 | INFO | CSVIngestor | Total de linhas (incluindo header): 403916
+2025-10-04 15:58:22 | INFO | CSVIngestor | ✓ Processado: 403915 válidos, 0 inválidos
+2025-10-04 15:58:46 | INFO | CSVIngestor | Header: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']... (32 colunas totais)
+2025-10-04 15:58:46 | INFO | CSVIngestor | Total de linhas (incluindo header): 407246
+2025-10-04 15:58:46 | INFO | CSVIngestor | ✓ Processado: 407245 válidos, 0 inválidos
+2025-10-04 15:59:14 | INFO | CSVIngestor | Header: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']... (32 colunas totais)
+2025-10-04 15:59:14 | INFO | CSVIngestor | Total de linhas (incluindo header): 411091
+2025-10-04 15:59:14 | INFO | CSVIngestor | ✓ Processado: 411090 válidos, 0 inválidos
+2025-10-04 15:59:37 | INFO | CSVIngestor | Header: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']... (32 colunas totais)
+2025-10-04 15:59:37 | INFO | CSVIngestor | Total de linhas (incluindo header): 415030
+2025-10-04 15:59:37 | INFO | CSVIngestor | ✓ Processado: 415029 válidos, 0 inválidos
+2025-10-04 16:03:16 | INFO | CSVIngestor | Header: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']... (32 colunas totais)
+2025-10-04 16:03:16 | INFO | CSVIngestor | Total de linhas (incluindo header): 403916
+2025-10-04 16:03:16 | INFO | CSVIngestor | ✓ Processado: 403915 válidos, 0 inválidos
+2025-10-04 16:03:47 | INFO | CSVIngestor | Header: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']... (32 colunas totais)
+2025-10-04 16:03:47 | INFO | CSVIngestor | Total de linhas (incluindo header): 407246
+2025-10-04 16:03:47 | INFO | CSVIngestor | ✓ Processado: 407245 válidos, 0 inválidos
+2025-10-04 16:04:13 | INFO | CSVIngestor | Header: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']... (32 colunas totais)
+2025-10-04 16:04:13 | INFO | CSVIngestor | Total de linhas (incluindo header): 411091
+2025-10-04 16:04:13 | INFO | CSVIngestor | ✓ Processado: 411090 válidos, 0 inválidos
+2025-10-04 16:04:39 | INFO | CSVIngestor | Header: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']... (32 colunas totais)
+2025-10-04 16:04:39 | INFO | CSVIngestor | Total de linhas (incluindo header): 415030
+2025-10-04 16:04:40 | INFO | CSVIngestor | ✓ Processado: 415029 válidos, 0 inválidos
+2025-10-04 16:06:19 | INFO | CSVIngestor | Header: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']... (32 colunas totais)
+2025-10-04 16:06:19 | INFO | CSVIngestor | Total de linhas (incluindo header): 403916
+2025-10-04 16:06:20 | INFO | CSVIngestor | ✓ Processado: 403915 válidos, 0 inválidos
+2025-10-04 16:07:00 | INFO | CSVIngestor | Header: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']... (32 colunas totais)
+2025-10-04 16:07:00 | INFO | CSVIngestor | Total de linhas (incluindo header): 407246
+2025-10-04 16:07:01 | INFO | CSVIngestor | ✓ Processado: 407245 válidos, 0 inválidos
+2025-10-04 16:07:24 | INFO | CSVIngestor | Header: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']... (32 colunas totais)
+2025-10-04 16:07:24 | INFO | CSVIngestor | Total de linhas (incluindo header): 411091
+2025-10-04 16:07:24 | INFO | CSVIngestor | ✓ Processado: 411090 válidos, 0 inválidos
+2025-10-04 16:07:47 | INFO | CSVIngestor | Header: ['Número do contribuinte', 'ano do exercício', 'data do cadastramento', 'tipo de contribuinte', 'CPF/CNPJ mascarado do contribuinte']... (32 colunas totais)
+2025-10-04 16:07:47 | INFO | CSVIngestor | Total de linhas (incluindo header): 415030
+2025-10-04 16:07:48 | INFO | CSVIngestor | ✓ Processado: 415029 válidos, 0 inválidos
+2025-10-04 19:22:04 | INFO | CSVIngestor | Lendo arquivo arquivo_inexistente.csv do ZIP em chunks (tamanho: 50000)...
+2025-10-04 19:22:04 | ERROR | CSVIngestor | Erro: Arquivo CSV 'arquivo_inexistente.csv' não encontrado no ZIP. Arquivos disponíveis: <MagicMock name='mock.__enter__().namelist()' id='2889939597840'>
+2025-10-04 19:22:09 | INFO | CSVIngestor | Lendo arquivo arquivo_inexistente.csv do ZIP em chunks (tamanho: 50000)...
+2025-10-04 19:22:09 | ERROR | CSVIngestor | Erro: Arquivo CSV 'arquivo_inexistente.csv' não encontrado no ZIP. Arquivos disponíveis: <MagicMock name='mock.__enter__().namelist()' id='1619428293136'>
+2025-10-04 19:24:38 | INFO | CSVIngestor | Lendo arquivo arquivo_inexistente.csv do ZIP em chunks (tamanho: 50000)...
+2025-10-04 19:24:38 | ERROR | CSVIngestor | Erro: Arquivo CSV 'arquivo_inexistente.csv' não encontrado no ZIP. Arquivos disponíveis: <MagicMock name='mock.__enter__().namelist()' id='2682699037200'>
+2025-10-04 19:27:19 | INFO | CSVIngestor | Lendo arquivo arquivo_inexistente.csv do ZIP em chunks (tamanho: 50000)...
+2025-10-04 19:27:19 | ERROR | CSVIngestor | Erro: Arquivo CSV 'arquivo_inexistente.csv' não encontrado no ZIP. Arquivos disponíveis: <MagicMock name='mock.__enter__().namelist()' id='2767561079648'>
+2025-10-04 19:27:45 | INFO | CSVIngestor | Lendo arquivo arquivo_inexistente.csv do ZIP em chunks (tamanho: 50000)...
+2025-10-04 19:27:45 | ERROR | CSVIngestor | Erro: Arquivo CSV 'arquivo_inexistente.csv' não encontrado no ZIP. Arquivos disponíveis: <MagicMock name='mock.__enter__().namelist()' id='1277750196752'>
+2025-10-04 19:28:59 | INFO | CSVIngestor | Lendo arquivo arquivo_inexistente.csv do ZIP em chunks (tamanho: 50000)...
+2025-10-04 19:28:59 | ERROR | CSVIngestor | Erro: Arquivo CSV 'arquivo_inexistente.csv' não encontrado no ZIP. Arquivos disponíveis: <MagicMock name='mock.__enter__().namelist()' id='2248517138960'>
+2025-10-04 19:31:05 | INFO | CSVIngestor | Lendo arquivo arquivo_inexistente.csv do ZIP em chunks (tamanho: 50000)...
+2025-10-04 19:31:05 | ERROR | CSVIngestor | Erro: Arquivo CSV 'arquivo_inexistente.csv' não encontrado no ZIP. Arquivos disponíveis: <MagicMock name='mock.__enter__().namelist()' id='2609188806944'>
+2025-10-04 20:27:35 | INFO | CSVIngestor | Lendo arquivo iptu_2020.csv do ZIP em chunks (tamanho: 50000)...
+2025-10-04 20:27:35 | INFO | CSVIngestor | Arquivo encontrado: iptu_2020.csv
+2025-10-04 20:27:40 | INFO | CSVIngestor | ✓ CSV carregado: 403915 registros, 32 colunas
+2025-10-04 20:28:19 | INFO | CSVIngestor | Lendo arquivo iptu_2021.csv do ZIP em chunks (tamanho: 50000)...
+2025-10-04 20:28:19 | INFO | CSVIngestor | Arquivo encontrado: iptu_2021.csv
+2025-10-04 20:28:21 | INFO | CSVIngestor | ✓ CSV carregado: 407245 registros, 32 colunas
+2025-10-04 20:28:48 | INFO | CSVIngestor | Lendo arquivo iptu_2022.csv do ZIP em chunks (tamanho: 50000)...
+2025-10-04 20:28:48 | INFO | CSVIngestor | Arquivo encontrado: iptu_2022.csv
+2025-10-04 20:28:52 | INFO | CSVIngestor | ✓ CSV carregado: 411090 registros, 32 colunas
+2025-10-04 20:29:25 | INFO | CSVIngestor | Lendo arquivo iptu_2023.csv do ZIP em chunks (tamanho: 50000)...
+2025-10-04 20:29:25 | INFO | CSVIngestor | Arquivo encontrado: iptu_2023.csv
+2025-10-04 20:29:30 | INFO | CSVIngestor | ✓ CSV carregado: 415029 registros, 32 colunas
+2025-10-04 21:08:55 | INFO | CSVIngestor | Lendo arquivo iptu_2020.csv do ZIP em chunks (tamanho: 50000)...
+2025-10-04 21:08:55 | INFO | CSVIngestor | Arquivo encontrado: iptu_2020.csv
+2025-10-04 21:08:57 | INFO | CSVIngestor | ✓ CSV carregado: 403915 registros, 32 colunas
+2025-10-04 21:09:22 | INFO | CSVIngestor | Lendo arquivo iptu_2021.csv do ZIP em chunks (tamanho: 50000)...
+2025-10-04 21:09:22 | INFO | CSVIngestor | Arquivo encontrado: iptu_2021.csv
+2025-10-04 21:09:24 | INFO | CSVIngestor | ✓ CSV carregado: 407245 registros, 32 colunas
+2025-10-04 21:09:46 | INFO | CSVIngestor | Lendo arquivo iptu_2022.csv do ZIP em chunks (tamanho: 50000)...
+2025-10-04 21:09:46 | INFO | CSVIngestor | Arquivo encontrado: iptu_2022.csv
+2025-10-04 21:09:49 | INFO | CSVIngestor | ✓ CSV carregado: 411090 registros, 32 colunas
+2025-10-04 21:10:06 | INFO | CSVIngestor | Lendo arquivo iptu_2023.csv do ZIP em chunks (tamanho: 50000)...
+2025-10-04 21:10:06 | INFO | CSVIngestor | Arquivo encontrado: iptu_2023.csv
+2025-10-04 21:10:11 | INFO | CSVIngestor | ✓ CSV carregado: 415029 registros, 32 colunas
+2025-10-10 19:24:11 | INFO | CSVIngestor | Lendo arquivo iptu_2020.csv do ZIP em chunks (tamanho: 50000)...
+2025-10-10 19:24:11 | INFO | CSVIngestor | Arquivo encontrado: iptu_2020.csv
+2025-10-10 19:24:15 | INFO | CSVIngestor | ✓ CSV carregado: 403915 registros, 32 colunas
+2025-10-10 19:24:40 | INFO | CSVIngestor | Lendo arquivo iptu_2021.csv do ZIP em chunks (tamanho: 50000)...
+2025-10-10 19:24:40 | INFO | CSVIngestor | Arquivo encontrado: iptu_2021.csv
+2025-10-10 19:24:44 | INFO | CSVIngestor | ✓ CSV carregado: 407245 registros, 32 colunas
+2025-10-10 19:25:08 | INFO | CSVIngestor | Lendo arquivo iptu_2022.csv do ZIP em chunks (tamanho: 50000)...
+2025-10-10 19:25:08 | INFO | CSVIngestor | Arquivo encontrado: iptu_2022.csv
+2025-10-10 19:25:12 | INFO | CSVIngestor | ✓ CSV carregado: 411090 registros, 32 colunas
+2025-10-10 19:25:42 | INFO | CSVIngestor | Lendo arquivo iptu_2023.csv do ZIP em chunks (tamanho: 50000)...
+2025-10-10 19:25:42 | INFO | CSVIngestor | Arquivo encontrado: iptu_2023.csv
+2025-10-10 19:25:45 | INFO | CSVIngestor | ✓ CSV carregado: 415029 registros, 32 colunas
